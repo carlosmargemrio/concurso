@@ -1,0 +1,772 @@
+[
+    {
+        "numero": 51,
+        "enunciado": "Sabe-se que, ao menos, desde 13.000 AP há assentamentos humanos desde a América do Norte até o sul da América do Sul. Datas anteriores existem e são cada vez mais comuns nas publicações, mas a sua associação com contextos arqueológicos bem definidos ainda é alvo de controvérsias.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A datação de ocupação humana nas Américas ainda é um tema em debate. Embora o modelo tradicional sugira 13.000 AP (associado à cultura Clóvis), há evidências mais antigas, como os sítios da Serra da Capivara no Brasil. No entanto, a falta de associação direta entre objetos culturais e datações pré-Clóvis torna o tema controverso.",
+        "imagem": "null"
+    },
+    {
+        "numero": 52,
+        "enunciado": "Os sítios arqueológicos da Serra da Capivara, no Piauí, e de Santa Elina, no Mato Grosso, são comumente referenciados como os mais antigos assentamentos do território brasileiro, porém o caráter arqueológico das datações mais recuadas desses sítios permanece sob intenso debate, uma vez que não há contextos arqueológicos seguramente pleistocênicos nesses locais.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Os sítios da Serra da Capivara e de Santa Elina possuem evidências de ocupação humana muito antiga, mas há debate sobre se esses vestígios pertencem realmente a humanos do Pleistoceno ou se há fatores naturais envolvidos nas datações mais remotas.",
+        "imagem": "null"
+    },
+    {
+        "numero": 53,
+        "enunciado": "O termo paleoíndio é utilizado para denominar os primeiros habitantes do continente americano que, via de regra, dependiam da caça de animais de grande porte para o sustento de suas comunidades.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "O termo paleoíndio refere-se aos primeiros grupos humanos das Américas, mas não apenas aos caçadores de grande porte. Há evidências de subsistência baseada em coleta, pesca e caça variada. Assim, o enunciado restringe a definição de forma incorreta.",
+        "imagem": "null"
+    },
+    {
+        "numero": 54,
+        "enunciado": "O gestor deve determinar a imediata remoção dos restos mortais, ainda que à revelia do direito das famílias afetadas sobre tais remanescentes, em prol do bem maior representado pela produção de energia elétrica para o país.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A remoção de restos mortais sem consentimento das famílias afetadas contraria princípios éticos e direitos fundamentais. Além disso, a legislação brasileira protege a memória e o patrimônio arqueológico, impedindo ações unilaterais sem estudos e consultas prévias.",
+        "imagem": "null"
+    },
+    {
+        "numero": 55,
+        "enunciado": "Se exauridas todas as possibilidades de negociação aventadas para um acordo amigável entre as partes, a gestão patrimonial deverá se posicionar a favor das famílias locais e, por consequência, pela proteção ao patrimônio arqueológico em risco.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A gestão do patrimônio deve considerar tanto o direito das comunidades quanto a preservação do patrimônio arqueológico. Se não houver acordo, o posicionamento deve ser pela proteção dos direitos da comunidade e do patrimônio cultural, respeitando valores históricos e sociais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 56,
+        "enunciado": "Para uma tomada de decisão ética acerca da construção da usina, será necessário averiguar se haverá impactos positivos do empreendimento para a população a ser afetada pela inundação da área e se a ausência de alternativa viável torna imperativa a implantação da usina nesse local para a manutenção de níveis seguros de produção de energia elétrica para o país.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A decisão deve considerar impactos sociais e ambientais antes de se determinar a construção da usina. O princípio da precaução exige a busca de alternativas para minimizar danos, e só se não houver outra opção viável, a obra pode ser justificada com base na necessidade de fornecimento energético.",
+        "imagem": "null"
+    },
+    {
+        "numero": 57,
+        "enunciado": "Os territórios contidos nas unidades de conservação, sem a presença das comunidades que tradicionalmente os ocupavam, passam por um processo de desestruturação da malha de significados dos lugares, de maneira que ocorrem alterações em suas paisagens arqueológicas, que vinham sendo construídas, muitas vezes, há milênios.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A remoção de comunidades tradicionais pode afetar não apenas a dinâmica ambiental, mas também a paisagem arqueológica, pois os habitantes locais mantêm práticas culturais e interações que contribuem para a conservação do espaço.",
+        "imagem": "null"
+    },
+    {
+        "numero": 58,
+        "enunciado": "Hoje, sabe-se que há situações em que, quando retiram-se as ocupações humanas tradicionais de uma determinada área, a biodiversidade cai devido à ausência de um elo fundamental na cadeia que promove a dinâmica de sua manutenção.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A relação entre comunidades tradicionais e biodiversidade é bem documentada. Em diversas regiões, como a Amazônia, a presença humana ajuda a manter ecossistemas equilibrados. Remover populações pode causar impactos negativos inesperados na fauna e flora locais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 59,
+        "enunciado": "Nas obras de um empreendimento de baixa interferência sobre as condições vigentes do solo, localizado em áreas alteradas e não coincidentes com sítios arqueológicos cadastrados, não há necessidade de qualquer avaliação arqueológica prévia, ficando os seus responsáveis obrigados a comunicar ao IPHAN, apenas caso encontrem — e sejam capazes de detectar — contextos culturais no local.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Errado, pois todo empreendimento, independentemente do impacto previsto, deve passar por avaliação arqueológica, conforme exigências do IPHAN. Além disso, confiar apenas na identificação casual de vestígios culturais pelos responsáveis da obra não é um procedimento válido.",
+        "imagem": "null"
+    },
+    {
+        "numero": 60,
+        "enunciado": "Sítios arqueológicos localizados em áreas diretamente afetadas por empreendimentos devem ser resgatados, mesmo que seja viável a sua preservação in situ, devido ao risco de perda de informações arqueológicas relevantes.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A preservação in situ (no local) deve ser sempre priorizada quando possível. O resgate de materiais arqueológicos só deve ser feito se não houver outra alternativa viável. A remoção pode comprometer o contexto arqueológico, o que prejudica a interpretação e a conservação dos achados.",
+        "imagem": "null"
+    },
+    {
+        "numero": 61,
+        "enunciado": "Somente será aceito como arqueólogo coordenador ou como arqueólogo coordenador de campo o profissional que não possuir em seu nome pendências injustificadas em relação à apresentação de relatórios de outros projetos ou programas anteriores.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O IPHAN exige que arqueólogos responsáveis por projetos não tenham pendências injustificadas quanto à entrega de relatórios anteriores. Essa norma visa garantir a continuidade dos estudos e a preservação adequada do patrimônio arqueológico.",
+        "imagem": "null"
+    },
+    {
+        "numero": 62,
+        "enunciado": "Sambaquis, sítios monumentais que se destacam nos ambientes litorâneos em que estão implantados, representam não apenas espaços habitacionais, mas também lugares onde eram desenvolvidas atividades específicas, inseridos em sistemas de assentamento regionais pouco conhecidos, com raros outros tipos de sítios identificados.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Os sambaquis não eram apenas locais de moradia, mas também centros cerimoniais e de descarte de materiais biológicos e culturais. Eles estão inseridos em sistemas de assentamento regionais, mas a relação com outros tipos de sítios ainda é pouco compreendida.",
+        "imagem": "null"
+    },
+    {
+        "numero": 63,
+        "enunciado": "Na região Sudeste, os sambaquis registrados com datação mais antiga estão nos sítios do Vale do Rio Ribeira do Iguape (cerca de 9.000 AP), onde os sambaquis predominantemente formados pela acumulação de restos de gastrópodes têm sequências estratigráficas assemelhadas a sítios costeiros que, normalmente, são muito mais recentes, com datações entre 6.000 AP e 3.000 AP.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O Vale do Ribeira abriga alguns dos sambaquis mais antigos do Brasil, datados de cerca de 9.000 AP. Esses sítios apresentam características semelhantes a sambaquis costeiros mais recentes, mas possuem uma cronologia distinta, indicando processos de ocupação contínuos ao longo do tempo.",
+        "imagem": "null"
+    },
+    {
+        "numero": 64,
+        "enunciado": "Em geral, os sambaquis são capeados por depósitos cerâmicos compostos predominantemente por terras pretas e estruturalmente semelhantes aos depósitos em que predomina o material malacológico.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Embora alguns sambaquis possuam camadas de depósitos cerâmicos em seu topo, não é uma regra geral. Além disso, as terras pretas arqueológicas têm composições distintas dos depósitos malacológicos típicos dos sambaquis.",
+        "imagem": "null"
+    },
+    {
+        "numero": 65,
+        "enunciado": "A alta densidade de material faunístico nos sambaquis tem levado à interpretação de que eles constituíram acampamentos temporários para sociedades de caçadores/coletores cuja dieta era altamente dependente da coleta de moluscos, não havendo sinais da prática da agricultura.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Embora a dieta dos ocupantes dos sambaquis fosse fortemente baseada na coleta de moluscos e pesca, há indícios de práticas agrícolas em alguns grupos sambaquieiros. Além disso, muitos sambaquis não eram apenas acampamentos temporários, mas assentamentos permanentes.",
+        "imagem": "null"
+    },
+    {
+        "numero": 66,
+        "enunciado": "As escavações sistemáticas em sambaquis começaram somente na década de 60 do século passado, quando programas de pesquisa franceses e norte-americanos iniciaram, isoladamente, investigações pioneiras nesses lugares.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "As pesquisas sobre sambaquis no Brasil começaram antes da década de 1960. Desde o início do século XX, pesquisadores brasileiros, como Roquette-Pinto e outros, já realizavam estudos sobre esses sítios arqueológicos. A década de 1960 trouxe avanços metodológicos, mas as investigações não começaram apenas nesse período.",
+        "imagem": "null"
+    },
+    {
+        "numero": 67,
+        "enunciado": "Em contraposição a interpretações anteriores, dados zooarqueológicos obtidos a partir de 1990 mostram que a dieta das comunidades sambaquieiras era baseada na pesca intensiva com redes em baías e lagoas e complementada pela coleta de alimentos nos manguezais.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Estudos mais recentes indicam que a pesca com redes era uma prática essencial para os povos sambaquieiros, contrariando hipóteses anteriores que enfatizavam exclusivamente a coleta de moluscos. Além disso, alimentos provenientes dos manguezais faziam parte da dieta, demonstrando uma adaptação complexa ao ambiente costeiro.",
+        "imagem": "null"
+    },
+    {
+        "numero": 68,
+        "enunciado": "Os projetos, necessariamente, devem ser executados sob as diretrizes de uma arqueologia colaborativa.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A arqueologia em terras indígenas segue o princípio da arqueologia colaborativa, que envolve a participação ativa das comunidades indígenas na definição dos objetivos e métodos de pesquisa. Isso está alinhado com diretrizes internacionais e normativas do IPHAN, garantindo o respeito aos direitos dessas populações.",
+        "imagem": "null"
+    },
+    {
+        "numero": 69,
+        "enunciado": "As comunidades indígenas devem ser as principais beneficiadas pelas pesquisas: povos e comunidades tradicionais devem ter primazia na definição dos métodos e na apropriação dos resultados obtidos por pesquisas arqueológicas em suas terras, cabendo ao Estado somente garantir que os materiais coletados fiquem à disposição para acesso pelos interessados, o mais próximo possível de seus locais de origem.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Embora as comunidades indígenas tenham um papel fundamental na gestão do patrimônio arqueológico, o Estado tem a responsabilidade legal de regular, proteger e gerir esses bens culturais. O IPHAN tem atribuições de fiscalização e salvaguarda, e não pode apenas atuar como facilitador do acesso aos materiais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 70,
+        "enunciado": "Em relação ao licenciamento ambiental de empreendimentos em terras indígenas, as consultas devem preceder quaisquer atividades ligadas ao desenvolvimento dos projetos e devem garantir aos indígenas a possibilidade de decidirem pela inviabilidade das obras.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O princípio do consentimento livre, prévio e informado (CLPI), estabelecido pela Convenção 169 da OIT (Organização Internacional do Trabalho), garante que povos indígenas devem ser consultados antes de qualquer empreendimento que afete seus territórios. Se a comunidade indígena considerar que a obra é inviável, essa decisão deve ser respeitada.",
+        "imagem": "null"
+    },
+    {
+        "numero": 71,
+        "enunciado": "Análises específicas da presença, na área de impacto dos empreendimentos, de locais ou paisagens de significado simbólico/sagrado para sociedades indígenas devem estar exclusivamente a cargo dos projetos sob gestão da FUNAI.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A identificação e análise de locais de significado simbólico para povos indígenas não são exclusividade da FUNAI. O IPHAN e outros órgãos ambientais e culturais também têm competência para avaliar o impacto dos empreendimentos sobre áreas sagradas, especialmente no contexto do licenciamento ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 72,
+        "enunciado": "Projetos voltados especificamente ao patrimônio arqueológico devem limitar-se aos vestígios materiais de ocupação humana pretérita encontrados nos sítios arqueológicos, de maneira que a gestão seja voltada para as características de redundância versus de relevância dos achados, para se garantir que os contextos sejam amostrados adequadamente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A arqueologia não se limita apenas aos vestígios materiais. Atualmente, a gestão do patrimônio arqueológico considera também aspectos simbólicos, imateriais e a relação das comunidades contemporâneas com esses bens. Assim, a abordagem não pode ser restrita apenas a um critério técnico de relevância versus redundância dos achados.",
+        "imagem": "null"
+    },
+    {
+        "numero": 73,
+        "enunciado": "Comprovar a continuidade histórica entre o registro etnográfico e o arqueológico pode ser irrelevante para as pessoas que usufruem do patrimônio arqueológico, uma vez que o conteúdo simbólico que os vestígios do passado possuem no presente é o que normalmente define as relações entre os sítios arqueológicos e as ocupações tradicionais de um determinado território.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A relação entre comunidades contemporâneas e o patrimônio arqueológico não depende exclusivamente de comprovações científicas de continuidade histórica. Muitas comunidades atribuem significados aos vestígios arqueológicos com base em narrativas culturais e simbólicas, independentemente de evidências formais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 74,
+        "enunciado": "As coisas e os bens de interesse arqueológico resgatados de afundamentos em águas sob jurisdição nacional deverão permanecer no domínio da União.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Os bens arqueológicos submersos, como naufrágios históricos e outros vestígios, são considerados patrimônio da União, conforme a legislação brasileira. Isso impede que particulares reivindiquem propriedade sobre esses bens e protege seu valor histórico e cultural.",
+        "imagem": "null"
+    },
+    {
+        "numero": 75,
+        "enunciado": "A Resolução CONAMA n.º 1/1986 estabelece que o estudo de impacto ambiental de um empreendimento deve conter o diagnóstico ambiental da área de influência desse empreendimento, considerando-se, entre os aspectos socioeconômicos, os sítios e monumentos arqueológicos.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A Resolução CONAMA nº 1/1986 determina que os estudos de impacto ambiental devem incluir a análise de impactos sobre o patrimônio arqueológico, além dos aspectos ecológicos e sociais. Isso garante que o patrimônio cultural seja protegido dentro do processo de licenciamento ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 76,
+        "enunciado": "Um arqueólogo deve acompanhar pessoalmente a execução de um empreendimento classificado como de baixa ou média interferência sobre as condições vigentes do solo que permitam medidas preventivas em campo.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A legislação brasileira não exige a presença constante de um arqueólogo em empreendimentos de baixa ou média interferência. O acompanhamento contínuo é necessário apenas para projetos de grande impacto arqueológico. Para os de menor interferência, a exigência é a realização de estudos prévios e monitoramento adequado.",
+        "imagem": "null"
+    },
+    {
+        "numero": 77,
+        "enunciado": "Na hipótese de um empreendimento provocar danos a bens culturais acautelados, cabe ao IPHAN, no âmbito do licenciamento ambiental, determinar as medidas de controle e de mitigação dos danos a serem adotadas pelo proprietário do empreendimento.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O IPHAN tem a competência legal para definir medidas de controle e mitigação de impactos causados a bens culturais. No âmbito do licenciamento ambiental, o órgão pode exigir compensações, monitoramento arqueológico e adoção de estratégias de preservação, garantindo a proteção do patrimônio.",
+        "imagem": "null"
+    },
+    {
+        "numero": 78,
+        "enunciado": "Os estudos necessários à elaboração de processo de licenciamento ambiental, no que se refere às pesquisas arqueológicas, são de responsabilidade exclusiva dos funcionários do IPHAN devidamente habilitados, conforme dispõe a Resolução CONAMA n.º 237/1997.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Os estudos arqueológicos em processos de licenciamento ambiental não são de responsabilidade exclusiva do IPHAN. Eles são realizados por arqueólogos privados contratados pelos empreendedores, seguindo diretrizes estabelecidas pelo órgão. O IPHAN atua na análise e aprovação desses estudos, mas não executa diretamente os levantamentos.",
+        "imagem": "null"
+    },
+    {
+        "numero": 79,
+        "enunciado": "As instituições de guarda e pesquisa devidamente cadastradas como tal têm competência para autorizar e fiscalizar os trabalhos dos arqueólogos em campo.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A fiscalização e autorização de trabalhos arqueológicos são atribuições exclusivas do IPHAN. As instituições de guarda e pesquisa têm a função de armazenar, conservar e estudar os bens arqueológicos, mas não possuem poder legal para autorizar escavações ou fiscalizar pesquisas em campo.",
+        "imagem": "null"
+    },
+    {
+        "numero": 80,
+        "enunciado": "O pedido de permissão para pesquisa e escavação arqueológica é privativo de pessoa jurídica.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "O pedido de permissão para escavações arqueológicas não é restrito a pessoas jurídicas. Profissionais arqueólogos individuais podem solicitar autorizações de pesquisa junto ao IPHAN, desde que estejam devidamente credenciados e atendam às exigências do órgão.",
+        "imagem": "null"
+    },
+    {
+        "numero": 81,
+        "enunciado": "O pesquisador, ao preencher a ficha de registro de sítio arqueológico por ele descoberto, pode atribuir ao sítio um nome de sua escolha.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O pesquisador responsável pelo registro de um sítio arqueológico pode nomeá-lo, geralmente levando em consideração referências geográficas, culturais ou aspectos locais que facilitem a sua identificação no Cadastro Nacional de Sítios Arqueológicos (CNSA).",
+        "imagem": "null"
+    },
+    {
+        "numero": 82,
+        "enunciado": "A movimentação de bens arqueológicos dentro do território nacional é normatizada por portaria do IPHAN.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O IPHAN regula a movimentação de bens arqueológicos no Brasil por meio de portarias específicas. Essas normas garantem que os artefatos sejam transportados de forma segura e legal, prevenindo a dispersão ou perda de patrimônio cultural.",
+        "imagem": "null"
+    },
+    {
+        "numero": 83,
+        "enunciado": "Os sítios arqueológicos com vestígios de atividades puramente econômicas e de sobrevivência são denominados de sítios cerimoniais.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Sítios cerimoniais são aqueles associados a práticas rituais e eventos simbólicos. Já os sítios voltados para atividades econômicas e de sobrevivência são categorizados de outra forma, como sítios de habitação, oficinas líticas ou sítios de caça e pesca.",
+        "imagem": "null"
+    },
+    {
+        "numero": 84,
+        "enunciado": "Recomenda-se que os materiais arqueológicos sejam reunidos em museus e coleções centrais ou regionais, a fim de se facilitarem pesquisas comparativas.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A centralização dos materiais arqueológicos em instituições de guarda e pesquisa facilita o acesso dos pesquisadores e a realização de estudos comparativos, garantindo melhores condições de preservação e catalogação.",
+        "imagem": "null"
+    },
+    {
+        "numero": 85,
+        "enunciado": "A metodologia do Programa Nacional de Pesquisas Arqueológicas (PRONAPA) consistia em coletas superficiais para identificação de sítios arqueológicos.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O PRONAPA (Programa Nacional de Pesquisas Arqueológicas) foi um projeto desenvolvido na década de 1960, que utilizava coletas superficiais e levantamentos sistemáticos para identificar e mapear sítios arqueológicos no Brasil.",
+        "imagem": "null"
+    },
+    {
+        "numero": 86,
+        "enunciado": "As datações relativas, assim denominadas por apresentarem margem de erro, são as obtidas por processos físico-químicos disponíveis aos arqueólogos desde a década de 1950.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Datações relativas não são baseadas em processos físico-químicos, mas sim na relação estratigráfica dos achados (exemplo: o princípio da superposição). Já as datações absolutas, como a datação por radiocarbono (C-14), surgiram na década de 1950 e utilizam métodos físico-químicos.",
+        "imagem": "null"
+    },
+    {
+        "numero": 87,
+        "enunciado": "De acordo com as recomendações do IPHAN para conservação de bens arqueológicos móveis, o acervo deve receber números de inventários que não identifiquem o sítio arqueológico de onde foram resgatados.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A catalogação de bens arqueológicos deve sempre manter a identificação do sítio de origem, pois essa informação é essencial para pesquisas e contextualização dos achados.",
+        "imagem": "null"
+    },
+    {
+        "numero": 88,
+        "enunciado": "Artefatos líticos que apresentam resíduos que caracterizem seu uso não devem ser higienizados por lavagem.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Artefatos líticos (ferramentas de pedra) podem conter resíduos orgânicos microscópicos que fornecem informações sobre seu uso. A lavagem pode remover essas evidências, comprometendo análises posteriores.",
+        "imagem": "null"
+    },
+    {
+        "numero": 89,
+        "enunciado": "Bens arqueológicos provenientes de meios úmidos devem ser expostos ao sol para secagem antes de serem transportados para laboratório.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Bens arqueológicos encontrados em ambientes úmidos exigem processos cuidadosos de secagem controlada, pois a exposição direta ao sol pode causar rachaduras, desintegração e perda de material orgânico.",
+        "imagem": "null"
+    },
+    {
+        "numero": 90,
+        "enunciado": "Bens arqueológicos fragmentados poderão ser colados, desde que se utilizem materiais e técnicas reversíveis que não comprometam a análise e a conservação desses bens.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A conservação de bens arqueológicos fragmentados deve utilizar adesivos reversíveis, permitindo que futuras intervenções possam ser feitas sem prejudicar os artefatos.",
+        "imagem": "null"
+    },
+    {
+        "numero": 91,
+        "enunciado": "O Cadastro de Bem Arqueológico Móvel constitui um inventário dos bens arqueológicos móveis existentes em diversas instituições do país.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Esse cadastro é um inventário nacional que registra bens arqueológicos móveis, ajudando na fiscalização, preservação e pesquisas científicas.",
+        "imagem": "null"
+    },
+    {
+        "numero": 92,
+        "enunciado": "O acesso ao Cadastro Nacional de Sítios Arqueológicos, que reúne informações sobre os sítios arqueológicos brasileiros, é restrito a arqueólogos e funcionários do IPHAN.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Embora algumas informações do Cadastro Nacional de Sítios Arqueológicos (CNSA) sejam de acesso restrito, ele pode ser consultado por pesquisadores e profissionais da área mediante solicitação.",
+        "imagem": "null"
+    },
+    {
+        "numero": 93,
+        "enunciado": "O principal objetivo das audiências públicas arqueológicas é informar a população sobre as decisões previamente tomadas por empresas no âmbito do licenciamento ambiental.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "O objetivo das audiências públicas não é apenas informar, mas também garantir a participação da sociedade na tomada de decisões sobre impactos ambientais e arqueológicos.",
+        "imagem": "null"
+    },
+    {
+        "numero": 94,
+        "enunciado": "A arqueologia preventiva é conceituada como um conjunto de técnicas e padrões éticos de conservação e restauração de bens arqueológicos adotado em ambiente de laboratório.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A arqueologia preventiva envolve ações em campo para evitar a destruição de sítios arqueológicos, principalmente em projetos de impacto ambiental. Não se limita ao ambiente de laboratório.",
+        "imagem": "null"
+    },
+    {
+        "numero": 95,
+        "enunciado": "O termo arqueologia pública surgiu nos Estados Unidos da América na década de 70 do século passado com a obra de Charles McGimsey, que demonstrou a importância social da atuação do arqueólogo.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A arqueologia pública surgiu nos EUA nos anos 1970 com a obra Public Archaeology, de Charles McGimsey, destacando o papel social e a necessidade de envolvimento da comunidade na preservação do patrimônio arqueológico.",
+        "imagem": "null"
+    },
+    {
+        "numero": 96,
+        "enunciado": "Objeto de interesse arqueológico encontrado em território brasileiro poderá ser vendido para o exterior desde que haja autorização expressa da Casa Civil e da Presidência da República.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Bens arqueológicos são propriedade da União e sua venda é proibida. Nenhuma autorização governamental pode permitir a exportação comercial de bens arqueológicos encontrados no Brasil.",
+        "imagem": "null"
+    },
+    {
+        "numero": 97,
+        "enunciado": "Em âmbito internacional, um bem cultural obtido mediante escavações ilícitas só será considerado furtado se assim prever o ordenamento jurídico do Estado onde as referidas escavações tenham ocorrido.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A Convenção da UNESCO de 1970 e outros tratados internacionais consideram ilícita a extração e venda de bens culturais obtidos ilegalmente, independentemente das leis específicas do país de origem.",
+        "imagem": "null"
+    },
+    {
+        "numero": 98,
+        "enunciado": "A obrigação de o predador indenizar os danos causados por ele ao meio ambiente está amparada no princípio do poluidor pagador.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O princípio do poluidor-pagador determina que quem causa dano ambiental deve arcar com os custos da reparação.",
+        "imagem": "null"
+    },
+    {
+        "numero": 99,
+        "enunciado": "O princípio do usuário pagador estabelece que quem utiliza o recurso ambiental deve suportar os custos advindos dessa prática.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O princípio do usuário-pagador complementa o poluidor-pagador, determinando que quem se beneficia do meio ambiente deve pagar pelo seu uso (ex.: exploração de recursos naturais).",
+        "imagem": "null"
+    },
+    {
+        "numero": 100,
+        "enunciado": "Na linha da harmonização entre a preservação do meio ambiente e o desenvolvimento econômico, a Constituição Federal de 1988 estabelece a defesa do meio ambiente e permite tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A Constituição de 1988 garante a proteção ambiental, mas permite tratamento diferenciado conforme o impacto ambiental, incentivando práticas sustentáveis.",
+        "imagem": "null"
+    },
+    {
+        "numero": 101,
+        "enunciado": "De acordo com a Constituição Federal de 1988, o meio ambiente ecologicamente equilibrado é essencial à sadia qualidade de vida, por isso consiste em bem de uso especial do povo.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "O meio ambiente é considerado bem de uso comum do povo, não bem de uso especial. Isso significa que todos têm direito à sua preservação e utilização sustentável.",
+        "imagem": "null"
+    },
+    {
+        "numero": 102,
+        "enunciado": "A realização de obras de engenharia destinadas ao uso comercial deverá ser precedida de estudo prévio de impacto ambiental, em razão do princípio da precaução.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Nem todas as obras comerciais exigem Estudo de Impacto Ambiental (EIA). O critério para essa exigência depende do potencial de impacto ao meio ambiente, conforme definido pela legislação ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 103,
+        "enunciado": "Para emissão do licenciamento ambiental, o órgão ambiental competente poderá avaliar a localização do empreendimento potencialmente poluidor, mas não poderá adentrar nas suas instalações, porque tal conduta extrapola o poder de polícia cabível a essa autoridade.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Os órgãos ambientais têm poder de polícia para fiscalizar e acessar instalações sempre que necessário para verificar o cumprimento das normas ambientais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 104,
+        "enunciado": "A fabricação e a montagem de veículos rodoviários serão sujeitas ao licenciamento ambiental caso haja laudo técnico oficial que ateste risco de degradação ambiental.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Se houver um laudo que indique impacto ambiental relevante, o licenciamento ambiental poderá ser exigido.",
+        "imagem": "null"
+    },
+    {
+        "numero": 105,
+        "enunciado": "Para a definição da sanção decorrente de conduta infracional contra o meio ambiente, deverão ser considerados a gravidade dos fatos e os antecedentes do infrator, sendo vedada como critério a situação econômica deste.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A legislação ambiental prevê critérios objetivos, como gravidade da infração e antecedentes do infrator, mas não permite tratamento desigual baseado na situação econômica.",
+        "imagem": "null"
+    },
+    {
+        "numero": 106,
+        "enunciado": "O poder de polícia ambiental é efetivado por meio do auto de infração, que conterá a imposição das medidas elencadas na legislação.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O poder de polícia ambiental é exercido por meio de autos de infração, embargos e multas.",
+        "imagem": "null"
+    },
+    {
+        "numero": 107,
+        "enunciado": "É lícita a cumulação de advertência com aplicação de multa para uma mesma conduta infracional contra o meio ambiente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A legislação permite cumulação de penalidades ambientais, combinando multa, advertência e outras medidas.",
+        "imagem": "null"
+    },
+    {
+        "numero": 108,
+        "enunciado": "Por entender que o dano ambiental afeta uma pluralidade difusa de vítimas, a legislação brasileira o considera a partir de dois prismas: o da vítima imediata e o da vítima mediata.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O dano ambiental pode ter efeitos imediatos (locais) e mediatos (afetando gerações futuras e ecossistemas maiores).",
+        "imagem": "null"
+    },
+    {
+        "numero": 109,
+        "enunciado": "Em relação à lesividade ou à extensão, o dano ambiental pode ser patrimonial ou extrapatrimonial.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O dano ambiental pode causar prejuízos patrimoniais (danos físicos) e extrapatrimoniais (impactos sociais e culturais, como a perda de biodiversidade).",
+        "imagem": "null"
+    },
+    {
+        "numero": 110,
+        "enunciado": "Para a responsabilização por dano ambiental, é necessária a existência da ação lesiva, do dano, do nexo com a fonte poluidora ou degradadora e da prova de culpa do agente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A responsabilidade ambiental no Brasil é objetiva, ou seja, não exige a comprovação de culpa, bastando a relação entre o dano e a ação do agente.",
+        "imagem": "null"
+    },
+    {
+        "numero": 111,
+        "enunciado": "A legislação brasileira conceitua como dano ambiental qualquer alteração adversa das características do meio ambiente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A legislação ambiental define dano ambiental como qualquer alteração negativa ao meio ambiente, independentemente de sua magnitude, conforme o artigo 3º da Lei nº 6.938/1981 (Política Nacional do Meio Ambiente).",
+        "imagem": "null"
+    },
+    {
+        "numero": 112,
+        "enunciado": "O EIA tem como objetivo analisar a viabilidade de determinada atividade e apresentar alternativas para minimizar impactos negativos ao meio ambiente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O Estudo de Impacto Ambiental (EIA) é um instrumento da política ambiental que analisa impactos e propõe alternativas para reduzir danos ao meio ambiente antes da aprovação de um empreendimento.",
+        "imagem": "null"
+    },
+    {
+        "numero": 113,
+        "enunciado": "A alteração das propriedades físicas, químicas e biológicas do meio ambiente é considerada impacto ambiental somente se tiver afetado a biota.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Um impacto ambiental não precisa necessariamente afetar a biota (fauna e flora) para ser caracterizado. Qualquer alteração significativa no solo, água ou ar pode ser considerada um impacto ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 114,
+        "enunciado": "O licenciamento de aterros sanitários estaduais depende de elaboração de estudo de impacto ambiental, que deve ser submetido ao IBAMA e, supletivamente, aos estados.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "O licenciamento de aterros sanitários é de competência estadual e municipal, e o IBAMA só atua caso o impacto ultrapasse os limites de um estado.",
+        "imagem": "null"
+    },
+    {
+        "numero": 115,
+        "enunciado": "O EIA constitui um instrumento da Política Nacional do Meio Ambiente e possui natureza jurídica de instituto constitucional.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "O Estudo de Impacto Ambiental (EIA) é um instrumento da Política Nacional do Meio Ambiente e tem amparo constitucional, sendo exigido para empreendimentos potencialmente poluidores (artigo 225 da Constituição Federal de 1988).",
+        "imagem": "null"
+    },
+    {
+        "numero": 116,
+        "enunciado": "Assegurar o bem-estar da população humana é uma das funções das áreas de preservação permanente.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Áreas de Preservação Permanente (APPs) são criadas para proteger recursos naturais, mas também beneficiam a população ao garantir qualidade ambiental e estabilidade ecológica.",
+        "imagem": "null"
+    },
+    {
+        "numero": 117,
+        "enunciado": "É vedada a supressão de vegetação nativa em área de preservação permanente, ainda que se trate de hipótese de utilidade pública.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "A legislação permite a supressão de vegetação em APPs em casos de utilidade pública, como construção de rodovias e obras de infraestrutura, desde que haja compensação ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 118,
+        "enunciado": "As unidades de conservação, consistentes no espaço territorial e seus recursos ambientais, são legalmente instituídas pelo poder público, sob regime especial de administração.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "Unidades de Conservação (UCs) são áreas protegidas instituídas pelo poder público e possuem regras específicas de uso e proteção, conforme a Lei do SNUC (Sistema Nacional de Unidades de Conservação - Lei nº 9.985/2000).",
+        "imagem": "null"
+    },
+    {
+        "numero": 119,
+        "enunciado": "Caso seja constatada a supressão de vegetação de área de preservação permanente situada em imóvel rural alienado, a obrigação de promover a recomposição da vegetação será transmitida ao comprador do imóvel.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Certo",
+        "comentário": "A responsabilidade ambiental acompanha o imóvel, ou seja, mesmo que haja mudança de proprietário, a obrigação de recomposição da vegetação permanece com o novo dono.",
+        "imagem": "null"
+    },
+    {
+        "numero": 120,
+        "enunciado": "A criação de uma unidade de conservação será precedida de estudos técnicos, exigindo-se a realização de consulta pública apenas se a área estiver ocupada por população indígena.",
+        "alternativas": [
+            "Certo",
+            "Errado"
+        ],
+        "resposta_correta": "Errado",
+        "comentário": "Toda criação de unidade de conservação deve ser precedida de consulta pública, independentemente de haver ou não populações indígenas na área.",
+        "imagem": "null"
+    }
+]
