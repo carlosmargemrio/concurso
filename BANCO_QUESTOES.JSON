@@ -1,6 +1,137 @@
 [
 {
     "numero": 1,
+    "enunciado": "A disputa territorial entre Venezuela e Guiana pelo território do Esequibo, em 2025, reflete principalmente:",
+    "alternativas": [
+      "A) Conflitos por recursos minerais como ouro e diamantes.",
+      "B) A redefinição de fronteiras por decisões políticas, mesmo após tratados históricos.",
+      "C) Pressões de grupos indígenas pela demarcação de terras ancestrais.",
+      "D) Interferência militar direta dos Estados Unidos na região."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A reivindicação venezuelana sobre o Esequibo, definido por um tratado de 1899, exemplifica como fronteiras podem ser contestadas politicamente, mesmo após acordos internacionais.",
+    "imagem": "null"
+  },
+  {
+    "numero": 2,
+    "enunciado": "A 'Iniciativa de Segurança Global', proposta pela China em 2025, tem como objetivo principal:",
+    "alternativas": [
+      "A) Substituir a OTAN por uma aliança militar asiática.",
+      "B) Contrabalançar a influência ocidental através de novos arranjos geopolíticos.",
+      "C) Criar uma moeda única para o comércio entre países do Sul Global.",
+      "D) Estabelecer bases militares chinesas no Oriente Médio."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A iniciativa busca consolidar parcerias via Organização de Cooperação de Xangai e outros fóruns, desafiando a ordem liderada pelo Ocidente.",
+    "imagem": "null"
+  },
+  {
+    "numero": 3,
+    "enunciado": "A condição de 'apátrida' ocorre quando uma pessoa:",
+    "alternativas": [
+      "A) É forçada a migrar devido a conflitos armados.",
+      "B) Não é reconhecida como cidadã por nenhum Estado.",
+      "C) Vive ilegalmente em um país estrangeiro.",
+      "D) Renuncia voluntariamente à sua nacionalidade."
+    ],
+    "resposta_correta": "B",
+    "comentário": "O apátrida surge da impossibilidade de registro civil, como no caso de crianças de pais refugiados sem documentação adequada.",
+    "imagem": "null"
+  },
+  {
+    "numero": 4,
+    "enunciado": "O conceito de 'soft power' na geopolítica refere-se a:",
+    "alternativas": [
+      "A) Uso de sanções econômicas para influenciar outros países.",
+      "B) Expansão militar para garantir controle estratégico.",
+      "C) Influência cultural e diplomática para ganhar aliados.",
+      "D) Dominação de mercados através de políticas protecionistas."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O soft power é exercido por meio de cultura, educação e cooperação, como a difusão global do K-pop sul-coreano.",
+    "imagem": "null"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Em 2025, a possível venda de mísseis Abdali do Paquistão para Bangladesh está relacionada a:",
+    "alternativas": [
+      "A) Tensões nucleares entre Índia e Paquistão.",
+      "B) Ameaças de pirataria no Golfo de Bengala.",
+      "C) Disputas por recursos hídricos no rio Ganges.",
+      "D) Pressões geopolíticas na região do Sul da Ásia."
+    ],
+    "resposta_correta": "D",
+    "comentário": "Essa movimentação reflete as crescentes tensões entre Bangladesh e Índia, com o Paquistão buscando ampliar sua influência.",
+    "imagem": "null"
+  },
+  {
+    "numero": 6,
+    "enunciado": "O fracasso em cumprir a meta de US$ 100 bilhões anuais para financiamento climático até 2025 afeta principalmente:",
+    "alternativas": [
+      "A) Países industrializados com alta emissão de carbono.",
+      "B) Nações em desenvolvimento vulneráveis a desastres ambientais.",
+      "C) Corporações multinacionais de energia renovável.",
+      "D) Organizações não governamentais ambientais."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A falta de recursos dificulta a adaptação de países pobres, que sofrem desproporcionalmente com mudanças climáticas.",
+    "imagem": "null"
+  },
+  {
+    "numero": 7,
+    "enunciado": "As sanções econômicas impostas por potências globais em 2025 geralmente resultam em:",
+    "alternativas": [
+      "A) Estabilidade política nos países-alvo.",
+      "B) Colapso imediato de governos autoritários.",
+      "C) Isolamento internacional e crise econômica local.",
+      "D) Aumento da cooperação regional entre nações sancionadas."
+    ],
+    "resposta_correta": "C",
+    "comentário": "Sanções impactam economias nacionais, como visto no caso da Rússia pós-invasão da Ucrânia, embora nem sempre alcancem objetivos políticos.",
+    "imagem": "null"
+  },
+  {
+    "numero": 8,
+    "enunciado": "A construção de ilhas artificiais no Mar da China Meridional pela China visa principalmente:",
+    "alternativas": [
+      "A) Proteger ecossistemas marinhos ameaçados.",
+      "B) Ampliar sua Zona Econômica Exclusiva (ZEE).",
+      "C) Facilitar operações de resgate humanitário.",
+      "D) Promover o turismo internacional."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A estratégia fortalece o controle chinês sobre rotas marítimas e recursos na região, contestada por países como Vietnã e Filipinas.",
+    "imagem": "null"
+  },
+  {
+    "numero": 9,
+    "enunciado": "A fragmentação da ordem global em 2025 é evidenciada por:",
+    "alternativas": [
+      "A) Aumento de conflitos bilaterais sem mediação da ONU.",
+      "B) Consolidação do G20 como principal fórum de decisões.",
+      "C) Redução de tarifas comerciais entre blocos econômicos.",
+      "D) Harmonização de políticas ambientais globais."
+    ],
+    "resposta_correta": "A",
+    "comentário": "A ineficácia da ONU e da OMC em resolver disputas, como em Gaza e Ucrânia, mostra a crise das instituições multilaterais.",
+    "imagem": "null"
+  },
+  {
+    "numero": 10,
+    "enunciado": "A presença de potências extrarregionais no Oriente Médio é justificada principalmente por:",
+    "alternativas": [
+      "A) Interesses em recursos naturais como petróleo.",
+      "B) Necessidade de proteger minorias religiosas.",
+      "C) Pressões de organizações terroristas locais.",
+      "D) Acordos de livre comércio com países árabes."
+    ],
+    "resposta_correta": "A",
+    "comentário": "O controle de reservas petrolíferas e rotas estratégicas explica a intervenção de EUA, China e Rússia na região.",
+    "imagem": "null"
+  },
+
+{
+    "numero": 1,
     "enunciado": "Em 2025, o Brasil assumiu a presidência do BRICS. Sobre esse grupo, é correto afirmar que:",
     "alternativas": [
       "A) É composto exclusivamente por países da América do Sul.",
