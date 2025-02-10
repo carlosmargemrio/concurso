@@ -1,6 +1,146 @@
 [
 {
-  "numero": 1,
+    "numero": 1,
+    "enunciado": "Em 2025, o Brasil assumiu a presidência do BRICS. Sobre esse grupo, é correto afirmar que:",
+    "alternativas": [
+      "A) É composto exclusivamente por países da América do Sul.",
+      "B) Tem como objetivo principal a criação de uma moeda única.",
+      "C) Inclui países como China, Índia e África do Sul.",
+      "D) Foi dissolvido após a saída da Rússia em 2024.",
+      "E) Não possui influência em fóruns internacionais como a ONU."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O BRICS reúne Brasil, Rússia, Índia, China e África do Sul, com foco em cooperação econômica e política multilateral. A presidência brasileira em 2025 reforça sua atuação em temas como comércio e desenvolvimento sustentável.",
+    "imagem": null
+  },
+  {
+    "numero": 2,
+    "enunciado": "Sobre a COP 30, marque a alternativa INCORRETA:",
+    "alternativas": [
+      "A) Discutiu metas para reduzir emissões de gases estufa até 2030.",
+      "B) Teve como sede o Brasil, país que liderou as negociações.",
+      "C) Aprovou a criação de um fundo para compensação de danos climáticos em ilhas vulcânicas.",
+      "D) Enfrentou críticas pela exclusão de representantes indígenas nas mesas principais.",
+      "E) Priorizou debates sobre transição energética e energia nuclear."
+    ],
+    "resposta_correta": "C",
+    "comentário": "A COP 30 focou em mecanismos de financiamento climático, mas a criação de um fundo específico para ilhas vulcânicas não consta nas deliberações oficiais. As críticas à exclusão de povos indígenas foram destacadas em relatórios.",
+    "imagem": null
+  },
+  {
+    "numero": 3,
+    "enunciado": "A China ampliou sua influência geopolítica em 2025 através:",
+    "alternativas": [
+      "A) Da ocupação militar do território russo na Sibéria.",
+      "B) Da construção de ilhas artificiais no Mar do Sul da China.",
+      "C) Do controle do Canal do Panamá.",
+      "D) Da exploração de petróleo na Amazônia brasileira.",
+      "E) Da imposição de barreiras comerciais à União Europeia."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A estratégia chinesa inclui a construção de ilhas artificiais para expandir o controle marítimo e rotas comerciais, tema recorrente em análises geopolíticas.",
+    "imagem": null
+  },
+  {
+    "numero": 4,
+    "enunciado": "A rivalidade entre EUA e China em 2025 inclui disputas em:",
+    "alternativas": [
+      "A) Controle de redes sociais como o TikTok.",
+      "B) Domínio do setor de inteligência artificial (ex: DeepSeek).",
+      "C) Exploração de asteroides minerais.",
+      "D) Exportação de café para a África.",
+      "E) Patrocínio de equipes esportivas olímpicas."
+    ],
+    "resposta_correta": "B",
+    "comentário": "O avanço tecnológico, especialmente em IA (como o DeepSeek), é um eixo central da competição entre as potências, impactando segurança e economia global.",
+    "imagem": null
+  },
+  {
+    "numero": 5,
+    "enunciado": "O acordo de troca de prisioneiros entre Hamas e Israel em 2025 está relacionado a:",
+    "alternativas": [
+      "A) Reconhecimento mútuo de soberania territorial.",
+      "B) Pressões internacionais para cessar foguetes em Gaza.",
+      "C) Negociações mediadas pelo Egito e Qatar.",
+      "D) Demarcação definitiva das fronteiras de Jerusalém.",
+      "E) Criação de um Estado Palestino independente."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O acordo foi intermediado por países como Qatar e Egito, refletindo a complexidade diplomática do conflito israelo-palestino.",
+    "imagem": null
+  },
+  {
+    "numero": 6,
+    "enunciado": "O conflito em Nagorno-Karabakh (2023-2025) envolve principalmente:",
+    "alternativas": [
+      "A) Rússia e Japão.",
+      "B) Armênia e Azerbaijão.",
+      "C) Turquia e Grécia.",
+      "D) Irã e Iraque.",
+      "E) Ucrânia e Polônia."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A região é palco de tensões históricas entre Armênia e Azerbaijão, com reivindicações territoriais e étnicas.",
+    "imagem": null
+  },
+  {
+    "numero": 7,
+    "enunciado": "Qual é o principal objetivo da Organização das Nações Unidas (ONU)?",
+    "alternativas": [
+      "A) Promover a economia global.",
+      "B) Manter a paz mundial.",
+      "C) Criar forças armadas internacionais.",
+      "D) Regular o comércio de armas nucleares.",
+      "E) Controlar fluxos migratórios."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A ONU tem como missão central a manutenção da paz, mediando conflitos e fomentando cooperação entre nações.",
+    "imagem": null
+  },
+  {
+    "numero": 8,
+    "enunciado": "A teoria geopolítica do 'Heartland', de Halford Mackinder, defende que:",
+    "alternativas": [
+      "A) O controle dos mares é essencial para o poder global.",
+      "B) O domínio territorial da Eurásia garante hegemonia mundial.",
+      "C) A energia nuclear redefine as fronteiras políticas.",
+      "D) A polarização ideológica é inevitável.",
+      "E) A globalização elimina conflitos regionais."
+    ],
+    "resposta_correta": "B",
+    "comentário": "Mackinder argumentava que o controle da região central da Eurásia ('Heartland') seria decisivo para a dominação geopolítica.",
+    "imagem": null
+  },
+  {
+    "numero": 9,
+    "enunciado": "A 'Guerra ao Terror', liderada pelos EUA após 2001, resultou diretamente na:",
+    "alternativas": [
+      "A) Guerra do Vietnã.",
+      "B) Guerra da Síria.",
+      "C) Guerra do Afeganistão.",
+      "D) Guerra da Crimeia.",
+      "E) Guerra da Coreia."
+    ],
+    "resposta_correta": "C",
+    "comentário": "A invasão do Afeganistão em 2001 foi uma resposta aos ataques de 11 de setembro, marcando o início da Guerra ao Terror.",
+    "imagem": null
+  },
+  {
+    "numero": 10,
+    "enunciado": "A rivalidade entre Índia e Paquistão tem origem em:",
+    "alternativas": [
+      "A) Disputas por recursos hídricos do Rio Ganges.",
+      "B) Conflitos religiosos entre hindus e budistas.",
+      "C) Processo de independência da Grã-Bretanha em 1947.",
+      "D) Controle de rotas comerciais no Oceano Índico.",
+      "E) Exploração de petróleo na Caxemira."
+    ],
+    "resposta_correta": "C",
+    "comentário": "A divisão territorial após a independência do domínio britânico gerou disputas territoriais e tensionamentos duradouros, especialmente na Caxemira.",
+    "imagem": null
+  },
+{
+  "numero": 01,
   "enunciado": "Seriam mantidas a correção gramatical e as ideias originais do texto se o último período do texto — 'Não constitui crime (...) consentida pelo proprietário' — fosse reescrito da seguinte forma: 'Quando consentida pelo proprietário a grafitagem, que se faz por meio de manifestação artística com vistas a valorizar o patrimônio, seja ele público ou privado, não é crime.'",
   "alternativas": [
     "Certo",
