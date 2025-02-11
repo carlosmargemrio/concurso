@@ -547,6 +547,19 @@
     "comentário": "A Instrução Normativa Iphan nº 1/2015 exige que projetos de arqueologia preventiva incluam diagnóstico, pesquisa e mitigação de impactos ao patrimônio arqueológico.",
     "imagem": "null"
   },
+"numero": 41,
+    "enunciado": "De acordo com a Portaria Iphan nº 159/2016, quem é responsável pela elaboração do Termo de Ajustamento de Conduta?",
+    "alternativas": [
+      "A) O Ministério da Cultura.",
+      "B) O Departamento Jurídico do Iphan.",
+      "C) O Ministério Público Federal.",
+      "D) A superintendência regional do Iphan responsável pela área impactada.",
+      "E) O Conselho Consultivo do Patrimônio Cultural."
+    ],
+    "resposta_correta": "D",
+    "comentário": "A superintendência regional do Iphan é a responsável pela elaboração do TAC conforme a portaria.",
+    "imagem": "null"
+  },
 {
         "numero": 51,
         "enunciado": "Sabe-se que, ao menos, desde 13.000 AP há assentamentos humanos desde a América do Norte até o sul da América do Sul. Datas anteriores existem e são cada vez mais comuns nas publicações, mas a sua associação com contextos arqueológicos bem definidos ainda é alvo de controvérsias.",
