@@ -282,6 +282,146 @@
   "imagem": "https://raw.githubusercontent.com/carlosmargemrio/concurso/refs/heads/main/imagem_para_banco_de_respostas/cespe-2018-iphan-tecnico-i-area-2-prova.jpg"
 },
 {
+    "numero": 22,
+    "enunciado": "Qual das seguintes afirmações melhor descreve o impacto das sanções econômicas impostas à Rússia após a invasão da Ucrânia em 2022?",
+    "alternativas": [
+      "A) Reduziram drasticamente o PIB russo, levando a uma recessão de longo prazo.",
+      "B) Não tiveram impacto significativo, pois a Rússia encontrou alternativas comerciais.",
+      "C) Aceleraram a transição da Rússia para uma economia mais autossuficiente e parcerias com China e Índia.",
+      "D) Levaram à falência do setor energético russo devido à dependência europeia de combustíveis fósseis.",
+      "E) Resultaram na retirada total da Rússia do sistema financeiro internacional SWIFT."
+    ],
+    "resposta_correta": "C",
+    "comentário": "As sanções afetaram a economia russa, mas a Rússia conseguiu redirecionar exportações para mercados alternativos, especialmente China e Índia, e buscou estratégias de substituição de importações. O PIB russo se recuperou mais rapidamente do que o esperado, indicando uma transição econômica forçada.",
+    "imagem": "null"
+  },
+  {
+    "numero": 23,
+    "enunciado": "Qual dos seguintes desafios tem sido uma barreira para a consolidação do Mercosul como bloco econômico?",
+    "alternativas": [
+      "A) Falta de interesse dos países membros em aprofundar a integração comercial.",
+      "B) Divergências políticas e econômicas entre os países membros.",
+      "C) Dependência excessiva dos Estados Unidos para negociações comerciais.",
+      "D) Ausência de um mercado comum para a circulação de bens e serviços.",
+      "E) Falta de estrutura para resolver disputas comerciais internas."
+    ],
+    "resposta_correta": "B",
+    "comentário": "O Mercosul enfrenta desafios políticos e econômicos, pois os interesses nacionais frequentemente entram em conflito. Além disso, mudanças políticas nos países membros influenciam a continuidade de políticas de integração.",
+    "imagem": "null"
+  },
+  {
+    "numero": 24,
+    "enunciado": "Qual é um dos principais desafios enfrentados por democracias durante transições políticas?",
+    "alternativas": [
+      "A) A impossibilidade de alternância de poder devido a constituições rígidas.",
+      "B) O risco de desinformação e tentativas de deslegitimação do processo eleitoral.",
+      "C) A falta de instituições reguladoras para monitorar o processo eleitoral.",
+      "D) A ausência de apoio militar para validar os resultados eleitorais.",
+      "E) A proibição de participação de partidos opositores nas eleições."
+    ],
+    "resposta_correta": "B",
+    "comentário": "Desinformação e tentativas de deslegitimação do processo eleitoral são desafios contemporâneos, pois afetam a confiança pública e podem gerar instabilidade institucional.",
+    "imagem": "null"
+  },
+  {
+    "numero": 25,
+    "enunciado": "O fenômeno da 'estagflação' ocorre quando há:",
+    "alternativas": [
+      "A) Crescimento econômico acelerado e inflação elevada.",
+      "B) Inflação elevada e estagnação econômica simultaneamente.",
+      "C) Redução do desemprego acompanhada por aumento da inflação.",
+      "D) Aumento da taxa de juros sem impacto no crescimento econômico.",
+      "E) Expansão fiscal e redução da dívida pública ao mesmo tempo."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A estagflação combina inflação elevada e crescimento econômico baixo ou negativo, tornando sua solução desafiadora, pois políticas para conter a inflação podem agravar a recessão.",
+    "imagem": "null"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Qual das seguintes medidas pode ser utilizada por um país para proteger sua indústria local de concorrência estrangeira?",
+    "alternativas": [
+      "A) Redução das tarifas sobre importações.",
+      "B) Implementação de cotas de importação.",
+      "C) Assinatura de acordos de livre comércio.",
+      "D) Redução da carga tributária sobre bens importados.",
+      "E) Abolição das barreiras alfandegárias."
+    ],
+    "resposta_correta": "B",
+    "comentário": "Cotas de importação limitam a quantidade de produtos estrangeiros no mercado, favorecendo a produção local e reduzindo a competição externa.",
+    "imagem": "null"
+  },
+  {
+    "numero": 27,
+    "enunciado": "O fenômeno da 'bolha de filtro' nas redes sociais refere-se a:",
+    "alternativas": [
+      "A) O bloqueio de conteúdos sensíveis para usuários vulneráveis.",
+      "B) A tendência dos algoritmos de reforçar opiniões pré-existentes do usuário.",
+      "C) A censura de conteúdos políticos polêmicos em plataformas digitais.",
+      "D) A criação de ambientes seguros para discussões abertas e democráticas.",
+      "E) O aumento da transparência na distribuição de informações online."
+    ],
+    "resposta_correta": "B",
+    "comentário": "As redes sociais utilizam algoritmos que priorizam conteúdos alinhados com as preferências do usuário, o que pode limitar a exposição a diferentes pontos de vista e reforçar crenças preexistentes.",
+    "imagem": "null"
+  },
+  {
+    "numero": 28,
+    "enunciado": "Qual dos seguintes desafios é central no debate sobre regulação da inteligência artificial?",
+    "alternativas": [
+      "A) A proibição completa do uso da IA em serviços públicos.",
+      "B) A dificuldade em definir padrões éticos globais para o uso da IA.",
+      "C) A impossibilidade de utilizar IA no setor financeiro.",
+      "D) O consenso internacional sobre como regulamentar a IA de forma homogênea.",
+      "E) A ausência de impactos da IA na força de trabalho."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A regulação da IA envolve desafios éticos e jurídicos complexos, pois diferentes países possuem abordagens distintas sobre privacidade, responsabilidade e segurança.",
+    "imagem": "null"
+  },
+  {
+    "numero": 29,
+    "enunciado": "Qual das seguintes opções representa um efeito direto das mudanças climáticas?",
+    "alternativas": [
+      "A) Aumento da atividade sísmica global.",
+      "B) Redução dos níveis dos oceanos.",
+      "C) Maior frequência e intensidade de eventos climáticos extremos.",
+      "D) Redução do consumo de combustíveis fósseis.",
+      "E) Diminuição da desertificação em regiões áridas."
+    ],
+    "resposta_correta": "C",
+    "comentário": "Cientistas observam um aumento na frequência de eventos climáticos extremos, como furacões e ondas de calor, como consequência do aquecimento global.",
+    "imagem": "null"
+  },
+  {
+    "numero": 30,
+    "enunciado": "O ransomware é um tipo de ataque cibernético que:",
+    "alternativas": [
+      "A) Exclui permanentemente os arquivos do usuário sem possibilidade de recuperação.",
+      "B) Espalha desinformação por meio de redes sociais.",
+      "C) Sequestra dados de um sistema e exige pagamento para sua liberação.",
+      "D) Rouba senhas bancárias sem criptografar os dados.",
+      "E) Interfere apenas em sistemas de governos e grandes corporações."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O ransomware bloqueia o acesso a dados e exige pagamento para sua recuperação, sendo uma das ameaças mais comuns à cibersegurança.",
+    "imagem": "null"
+  },
+  {
+    "numero": 31,
+    "enunciado": "Qual é um dos principais desafios da implementação da educação híbrida no Brasil?",
+    "alternativas": [
+      "A) Falta de professores capacitados para o ensino presencial.",
+      "B) Baixa penetração de tecnologias digitais entre a população.",
+      "C) Redução do número de matrículas em escolas públicas.",
+      "D) A impossibilidade de aplicar metodologias ativas de ensino.",
+      "E) A necessidade de abolir completamente o ensino presencial."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A desigualdade de acesso a dispositivos e internet de qualidade é um grande desafio para a educação híbrida, impactando principalmente estudantes de baixa renda.",
+    "imagem": "null"
+  },
+{
         "numero": 51,
         "enunciado": "Sabe-se que, ao menos, desde 13.000 AP há assentamentos humanos desde a América do Norte até o sul da América do Sul. Datas anteriores existem e são cada vez mais comuns nas publicações, mas a sua associação com contextos arqueológicos bem definidos ainda é alvo de controvérsias.",
         "alternativas": [
