@@ -421,6 +421,132 @@
     "comentário": "A desigualdade de acesso a dispositivos e internet de qualidade é um grande desafio para a educação híbrida, impactando principalmente estudantes de baixa renda.",
     "imagem": "null"
   },
+ {
+    "numero": 32,
+    "enunciado": "De acordo com o artigo 216 da Constituição Federal de 1988, quais bens compõem o patrimônio cultural brasileiro?",
+    "alternativas": [
+      "A) Apenas os bens materiais, como edificações tombadas e sítios arqueológicos.",
+      "B) Apenas os bens naturais, como florestas e reservas ambientais.",
+      "C) Os bens materiais e imateriais, incluindo formas de expressão, modos de criar, fazer e viver.",
+      "D) Exclusivamente os bens móveis, como obras de arte e documentos históricos.",
+      "E) Apenas os bens reconhecidos internacionalmente pela UNESCO."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O artigo 216 da Constituição Federal estabelece que o patrimônio cultural brasileiro inclui bens de natureza material e imaterial, como formas de expressão, modos de criar, fazer e viver, além de edificações e sítios arqueológicos.",
+    "imagem": "null"
+  },
+  {
+    "numero": 33,
+    "enunciado": "O Decreto-Lei nº 25 de 1937, que organiza a proteção do patrimônio histórico e artístico nacional, estabelece que:",
+    "alternativas": [
+      "A) Apenas o Iphan pode definir bens a serem tombados, sem participação da sociedade.",
+      "B) Bens tombados pelo Iphan podem ser livremente alienados e modificados pelos proprietários.",
+      "C) O tombamento é um ato administrativo que impõe restrições ao uso e alteração dos bens protegidos.",
+      "D) Sítios arqueológicos não são considerados bens passíveis de tombamento.",
+      "E) O tombamento depende exclusivamente da aprovação do Congresso Nacional."
+    ],
+    "resposta_correta": "C",
+    "comentário": "O Decreto-Lei nº 25/1937 estabelece o tombamento como um ato administrativo que protege bens culturais, impondo restrições para evitar sua descaracterização ou destruição.",
+    "imagem": "null"
+  },
+  {
+    "numero": 34,
+    "enunciado": "Segundo a Lei nº 3.924/1961, que dispõe sobre a proteção ao patrimônio arqueológico e pré-histórico, os sítios arqueológicos:",
+    "alternativas": [
+      "A) São propriedade exclusiva dos estados e municípios onde estão localizados.",
+      "B) Pertencem à União e qualquer intervenção neles requer autorização do Iphan.",
+      "C) Podem ser explorados comercialmente por empresas privadas sem restrições.",
+      "D) São protegidos apenas se estiverem dentro de áreas de conservação ambiental.",
+      "E) Podem ser destruídos para fins de desenvolvimento urbano sem necessidade de estudo prévio."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A Lei nº 3.924/1961 estabelece que os sítios arqueológicos são bens da União, e qualquer intervenção neles requer autorização prévia do Iphan.",
+    "imagem": "null"
+  },
+  {
+    "numero": 35,
+    "enunciado": "A Lei nº 13.653/2018 alterou a regulamentação da profissão de arqueólogo no Brasil. Qual foi uma de suas principais mudanças?",
+    "alternativas": [
+      "A) Excluiu a necessidade de formação específica para atuar na área de arqueologia.",
+      "B) Tornou obrigatório o registro no Conselho de Arquitetura e Urbanismo para atuar como arqueólogo.",
+      "C) Regulamentou a profissão e tornou obrigatória a formação em arqueologia ou áreas afins reconhecidas pelo Iphan.",
+      "D) Permitiu que qualquer profissional de ciências humanas atue como arqueólogo sem necessidade de especialização.",
+      "E) Revogou a necessidade de licenciamento ambiental para pesquisas arqueológicas."
+    ],
+    "resposta_correta": "C",
+    "comentário": "A Lei nº 13.653/2018 regulamentou a profissão de arqueólogo, exigindo formação específica em arqueologia ou áreas afins reconhecidas pelo Iphan.",
+    "imagem": "null"
+  },
+  {
+    "numero": 36,
+    "enunciado": "A Resolução CONAMA nº 1/1986 estabelece diretrizes para estudos de impacto ambiental. No contexto arqueológico, essa resolução determina que:",
+    "alternativas": [
+      "A) Sítios arqueológicos não precisam ser considerados nos estudos de impacto ambiental.",
+      "B) Estudos de impacto ambiental devem obrigatoriamente incluir avaliação arqueológica das áreas afetadas.",
+      "C) Apenas empreendimentos urbanos precisam realizar estudos de impacto arqueológico.",
+      "D) Os estudos de impacto ambiental são de responsabilidade exclusiva das universidades federais.",
+      "E) A análise de impacto arqueológico pode ser dispensada caso o empreendimento seja de interesse nacional."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A Resolução CONAMA nº 1/1986 determina que estudos de impacto ambiental incluam a avaliação de sítios arqueológicos para mitigar possíveis danos ao patrimônio cultural.",
+    "imagem": "null"
+  },
+  {
+    "numero": 37,
+    "enunciado": "De acordo com a Portaria Iphan nº 316/2019, o Cadastro Nacional de Sítios Arqueológicos (CNSA) tem como objetivo:",
+    "alternativas": [
+      "A) Ser um banco de dados restrito ao uso do Iphan e do Ministério da Cultura.",
+      "B) Registrar e documentar os sítios arqueológicos brasileiros, garantindo sua proteção e monitoramento.",
+      "C) Listar apenas sítios arqueológicos tombados internacionalmente pela UNESCO.",
+      "D) Criar um inventário exclusivo para sítios arqueológicos situados em unidades de conservação ambiental.",
+      "E) Definir critérios para a comercialização de artefatos arqueológicos encontrados em território nacional."
+    ],
+    "resposta_correta": "B",
+    "comentário": "O Cadastro Nacional de Sítios Arqueológicos (CNSA) tem como objetivo registrar e monitorar os sítios arqueológicos do Brasil, garantindo sua proteção.",
+    "imagem": "null"
+  },
+  {
+    "numero": 38,
+    "enunciado": "Segundo a Portaria Iphan nº 375/2018, qual é a responsabilidade do arqueólogo coordenador em um projeto de arqueologia preventiva?",
+    "alternativas": [
+      "A) Apenas supervisionar os trabalhos de campo sem necessidade de elaborar relatórios.",
+      "B) Garantir que todas as etapas do projeto arqueológico sejam cumpridas conforme a legislação vigente.",
+      "C) Autorizar a comercialização de artefatos arqueológicos encontrados durante escavações.",
+      "D) Realizar estudos apenas quando houver solicitação do empreendedor.",
+      "E) Excluir o Iphan do processo de análise e aprovação dos estudos arqueológicos."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A Portaria Iphan nº 375/2018 define que o arqueólogo coordenador deve garantir a conformidade do projeto arqueológico com a legislação vigente.",
+    "imagem": "null"
+  },
+  {
+    "numero": 39,
+    "enunciado": "A Portaria Iphan nº 241/1998 trata da guarda e destinação de materiais arqueológicos. Segundo essa portaria, os artefatos encontrados em escavações devem:",
+    "alternativas": [
+      "A) Ser entregues diretamente ao proprietário do terreno onde foram encontrados.",
+      "B) Ser armazenados e estudados em instituições cadastradas pelo Iphan.",
+      "C) Ser destruídos caso não apresentem interesse comercial.",
+      "D) Permanecer no local da escavação, sem necessidade de conservação.",
+      "E) Ser leiloados para financiar futuras pesquisas arqueológicas."
+    ],
+    "resposta_correta": "B",
+    "comentário": "A Portaria Iphan nº 241/1998 estabelece que os artefatos arqueológicos devem ser armazenados e estudados em instituições cadastradas pelo Iphan, garantindo sua preservação.",
+    "imagem": "null"
+  },
+  {
+    "numero": 40,
+    "enunciado": "Conforme a Instrução Normativa Iphan nº 1/2015, um projeto de arqueologia preventiva deve:",
+    "alternativas": [
+      "A) Ser conduzido apenas por arqueólogos amadores.",
+      "B) Ser realizado apenas se houver suspeita de existência de sítios arqueológicos.",
+      "C) Incluir diagnóstico arqueológico, pesquisa e medidas de mitigação de impactos.",
+      "D) Dispensar relatórios técnicos caso não sejam encontrados vestígios arqueológicos.",
+      "E) Depender exclusivamente da autorização do empreendedor para ser iniciado."
+    ],
+    "resposta_correta": "C",
+    "comentário": "A Instrução Normativa Iphan nº 1/2015 exige que projetos de arqueologia preventiva incluam diagnóstico, pesquisa e mitigação de impactos ao patrimônio arqueológico.",
+    "imagem": "null"
+  },
 {
         "numero": 51,
         "enunciado": "Sabe-se que, ao menos, desde 13.000 AP há assentamentos humanos desde a América do Norte até o sul da América do Sul. Datas anteriores existem e são cada vez mais comuns nas publicações, mas a sua associação com contextos arqueológicos bem definidos ainda é alvo de controvérsias.",
