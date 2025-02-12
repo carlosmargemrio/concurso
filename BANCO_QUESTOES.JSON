@@ -1,1334 +1,901 @@
 [
-{
-    "numero": 1,
-    "enunciado": "A disputa territorial entre Venezuela e Guiana pelo território do Esequibo, em 2025, reflete principalmente:",
-    "alternativas": [
-      "A) Conflitos por recursos minerais como ouro e diamantes.",
-      "B) A redefinição de fronteiras por decisões políticas, mesmo após tratados históricos.",
-      "C) Pressões de grupos indígenas pela demarcação de terras ancestrais.",
-      "D) Interferência militar direta dos Estados Unidos na região."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A reivindicação venezuelana sobre o Esequibo, definido por um tratado de 1899, exemplifica como fronteiras podem ser contestadas politicamente, mesmo após acordos internacionais.",
-    "imagem": "null"
-  },
-  {
-    "numero": 2,
-    "enunciado": "A 'Iniciativa de Segurança Global', proposta pela China em 2025, tem como objetivo principal:",
-    "alternativas": [
-      "A) Substituir a OTAN por uma aliança militar asiática.",
-      "B) Contrabalançar a influência ocidental através de novos arranjos geopolíticos.",
-      "C) Criar uma moeda única para o comércio entre países do Sul Global.",
-      "D) Estabelecer bases militares chinesas no Oriente Médio."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A iniciativa busca consolidar parcerias via Organização de Cooperação de Xangai e outros fóruns, desafiando a ordem liderada pelo Ocidente.",
-    "imagem": "null"
-  },
-  {
-    "numero": 3,
-    "enunciado": "A condição de 'apátrida' ocorre quando uma pessoa:",
-    "alternativas": [
-      "A) É forçada a migrar devido a conflitos armados.",
-      "B) Não é reconhecida como cidadã por nenhum Estado.",
-      "C) Vive ilegalmente em um país estrangeiro.",
-      "D) Renuncia voluntariamente à sua nacionalidade."
-    ],
-    "resposta_correta": "B",
-    "comentário": "O apátrida surge da impossibilidade de registro civil, como no caso de crianças de pais refugiados sem documentação adequada.",
-    "imagem": "null"
-  },
-  {
-    "numero": 4,
-    "enunciado": "O conceito de 'soft power' na geopolítica refere-se a:",
-    "alternativas": [
-      "A) Uso de sanções econômicas para influenciar outros países.",
-      "B) Expansão militar para garantir controle estratégico.",
-      "C) Influência cultural e diplomática para ganhar aliados.",
-      "D) Dominação de mercados através de políticas protecionistas."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O soft power é exercido por meio de cultura, educação e cooperação, como a difusão global do K-pop sul-coreano.",
-    "imagem": "null"
-  },
-  {
-    "numero": 5,
-    "enunciado": "Em 2025, a possível venda de mísseis Abdali do Paquistão para Bangladesh está relacionada a:",
-    "alternativas": [
-      "A) Tensões nucleares entre Índia e Paquistão.",
-      "B) Ameaças de pirataria no Golfo de Bengala.",
-      "C) Disputas por recursos hídricos no rio Ganges.",
-      "D) Pressões geopolíticas na região do Sul da Ásia."
-    ],
-    "resposta_correta": "D",
-    "comentário": "Essa movimentação reflete as crescentes tensões entre Bangladesh e Índia, com o Paquistão buscando ampliar sua influência.",
-    "imagem": "null"
-  },
-  {
-    "numero": 6,
-    "enunciado": "O fracasso em cumprir a meta de US$ 100 bilhões anuais para financiamento climático até 2025 afeta principalmente:",
-    "alternativas": [
-      "A) Países industrializados com alta emissão de carbono.",
-      "B) Nações em desenvolvimento vulneráveis a desastres ambientais.",
-      "C) Corporações multinacionais de energia renovável.",
-      "D) Organizações não governamentais ambientais."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A falta de recursos dificulta a adaptação de países pobres, que sofrem desproporcionalmente com mudanças climáticas.",
-    "imagem": "null"
-  },
-  {
-    "numero": 7,
-    "enunciado": "As sanções econômicas impostas por potências globais em 2025 geralmente resultam em:",
-    "alternativas": [
-      "A) Estabilidade política nos países-alvo.",
-      "B) Colapso imediato de governos autoritários.",
-      "C) Isolamento internacional e crise econômica local.",
-      "D) Aumento da cooperação regional entre nações sancionadas."
-    ],
-    "resposta_correta": "C",
-    "comentário": "Sanções impactam economias nacionais, como visto no caso da Rússia pós-invasão da Ucrânia, embora nem sempre alcancem objetivos políticos.",
-    "imagem": "null"
-  },
-  {
-    "numero": 8,
-    "enunciado": "A construção de ilhas artificiais no Mar da China Meridional pela China visa principalmente:",
-    "alternativas": [
-      "A) Proteger ecossistemas marinhos ameaçados.",
-      "B) Ampliar sua Zona Econômica Exclusiva (ZEE).",
-      "C) Facilitar operações de resgate humanitário.",
-      "D) Promover o turismo internacional."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A estratégia fortalece o controle chinês sobre rotas marítimas e recursos na região, contestada por países como Vietnã e Filipinas.",
-    "imagem": "null"
-  },
-  {
-    "numero": 9,
-    "enunciado": "A fragmentação da ordem global em 2025 é evidenciada por:",
-    "alternativas": [
-      "A) Aumento de conflitos bilaterais sem mediação da ONU.",
-      "B) Consolidação do G20 como principal fórum de decisões.",
-      "C) Redução de tarifas comerciais entre blocos econômicos.",
-      "D) Harmonização de políticas ambientais globais."
-    ],
-    "resposta_correta": "A",
-    "comentário": "A ineficácia da ONU e da OMC em resolver disputas, como em Gaza e Ucrânia, mostra a crise das instituições multilaterais.",
-    "imagem": "null"
-  },
-  {
-    "numero": 10,
-    "enunciado": "A presença de potências extrarregionais no Oriente Médio é justificada principalmente por:",
-    "alternativas": [
-      "A) Interesses em recursos naturais como petróleo.",
-      "B) Necessidade de proteger minorias religiosas.",
-      "C) Pressões de organizações terroristas locais.",
-      "D) Acordos de livre comércio com países árabes."
-    ],
-    "resposta_correta": "A",
-    "comentário": "O controle de reservas petrolíferas e rotas estratégicas explica a intervenção de EUA, China e Rússia na região.",
-    "imagem": "null"
-  },
-
-{
-    "numero": 11,
-    "enunciado": "Em 2025, o Brasil assumiu a presidência do BRICS. Sobre esse grupo, é correto afirmar que:",
-    "alternativas": [
-      "A) É composto exclusivamente por países da América do Sul.",
-      "B) Tem como objetivo principal a criação de uma moeda única.",
-      "C) Inclui países como China, Índia e África do Sul.",
-      "D) Foi dissolvido após a saída da Rússia em 2024.",
-      "E) Não possui influência em fóruns internacionais como a ONU."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O BRICS reúne Brasil, Rússia, Índia, China e África do Sul, com foco em cooperação econômica e política multilateral. A presidência brasileira em 2025 reforça sua atuação em temas como comércio e desenvolvimento sustentável.",
-    "imagem": "null"
-  },
-  {
-    "numero": 12,
-    "enunciado": "Sobre a COP 30, marque a alternativa INCORRETA:",
-    "alternativas": [
-      "A) Discutiu metas para reduzir emissões de gases estufa até 2030.",
-      "B) Teve como sede o Brasil, país que liderou as negociações.",
-      "C) Aprovou a criação de um fundo para compensação de danos climáticos em ilhas vulcânicas.",
-      "D) Enfrentou críticas pela exclusão de representantes indígenas nas mesas principais.",
-      "E) Priorizou debates sobre transição energética e energia nuclear."
-    ],
-    "resposta_correta": "C",
-    "comentário": "A COP 30 focou em mecanismos de financiamento climático, mas a criação de um fundo específico para ilhas vulcânicas não consta nas deliberações oficiais. As críticas à exclusão de povos indígenas foram destacadas em relatórios.",
-    "imagem": "null"
-  },
-  {
-    "numero": 13,
-    "enunciado": "A China ampliou sua influência geopolítica em 2025 através:",
-    "alternativas": [
-      "A) Da ocupação militar do território russo na Sibéria.",
-      "B) Da construção de ilhas artificiais no Mar do Sul da China.",
-      "C) Do controle do Canal do Panamá.",
-      "D) Da exploração de petróleo na Amazônia brasileira.",
-      "E) Da imposição de barreiras comerciais à União Europeia."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A estratégia chinesa inclui a construção de ilhas artificiais para expandir o controle marítimo e rotas comerciais, tema recorrente em análises geopolíticas.",
-    "imagem": "null"
-  },
-  {
-    "numero": 14,
-    "enunciado": "A rivalidade entre EUA e China em 2025 inclui disputas em:",
-    "alternativas": [
-      "A) Controle de redes sociais como o TikTok.",
-      "B) Domínio do setor de inteligência artificial (ex: DeepSeek).",
-      "C) Exploração de asteroides minerais.",
-      "D) Exportação de café para a África.",
-      "E) Patrocínio de equipes esportivas olímpicas."
-    ],
-    "resposta_correta": "B",
-    "comentário": "O avanço tecnológico, especialmente em IA (como o DeepSeek), é um eixo central da competição entre as potências, impactando segurança e economia global.",
-    "imagem": "null"
-  },
-  {
-    "numero": 15,
-    "enunciado": "O acordo de troca de prisioneiros entre Hamas e Israel em 2025 está relacionado a:",
-    "alternativas": [
-      "A) Reconhecimento mútuo de soberania territorial.",
-      "B) Pressões internacionais para cessar foguetes em Gaza.",
-      "C) Negociações mediadas pelo Egito e Qatar.",
-      "D) Demarcação definitiva das fronteiras de Jerusalém.",
-      "E) Criação de um Estado Palestino independente."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O acordo foi intermediado por países como Qatar e Egito, refletindo a complexidade diplomática do conflito israelo-palestino.",
-    "imagem": "null"
-  },
-  {
-    "numero": 16,
-    "enunciado": "O conflito em Nagorno-Karabakh (2023-2025) envolve principalmente:",
-    "alternativas": [
-      "A) Rússia e Japão.",
-      "B) Armênia e Azerbaijão.",
-      "C) Turquia e Grécia.",
-      "D) Irã e Iraque.",
-      "E) Ucrânia e Polônia."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A região é palco de tensões históricas entre Armênia e Azerbaijão, com reivindicações territoriais e étnicas.",
-    "imagem": "null"
-  },
-  {
-    "numero": 17,
-    "enunciado": "Qual é o principal objetivo da Organização das Nações Unidas (ONU)?",
-    "alternativas": [
-      "A) Promover a economia global.",
-      "B) Manter a paz mundial.",
-      "C) Criar forças armadas internacionais.",
-      "D) Regular o comércio de armas nucleares.",
-      "E) Controlar fluxos migratórios."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A ONU tem como missão central a manutenção da paz, mediando conflitos e fomentando cooperação entre nações.",
-    "imagem": "null"
-  },
-  {
-    "numero": 18,
-    "enunciado": "A teoria geopolítica do 'Heartland', de Halford Mackinder, defende que:",
-    "alternativas": [
-      "A) O controle dos mares é essencial para o poder global.",
-      "B) O domínio territorial da Eurásia garante hegemonia mundial.",
-      "C) A energia nuclear redefine as fronteiras políticas.",
-      "D) A polarização ideológica é inevitável.",
-      "E) A globalização elimina conflitos regionais."
-    ],
-    "resposta_correta": "B",
-    "comentário": "Mackinder argumentava que o controle da região central da Eurásia ('Heartland') seria decisivo para a dominação geopolítica.",
-    "imagem": "null"
-  },
-  {
-    "numero": 19,
-    "enunciado": "A 'Guerra ao Terror', liderada pelos EUA após 2001, resultou diretamente na:",
-    "alternativas": [
-      "A) Guerra do Vietnã.",
-      "B) Guerra da Síria.",
-      "C) Guerra do Afeganistão.",
-      "D) Guerra da Crimeia.",
-      "E) Guerra da Coreia."
-    ],
-    "resposta_correta": "C",
-    "comentário": "A invasão do Afeganistão em 2001 foi uma resposta aos ataques de 11 de setembro, marcando o início da Guerra ao Terror.",
-    "imagem": "null"
-  },
-  {
-    "numero": 20,
-    "enunciado": "A rivalidade entre Índia e Paquistão tem origem em:",
-    "alternativas": [
-      "A) Disputas por recursos hídricos do Rio Ganges.",
-      "B) Conflitos religiosos entre hindus e budistas.",
-      "C) Processo de independência da Grã-Bretanha em 1947.",
-      "D) Controle de rotas comerciais no Oceano Índico.",
-      "E) Exploração de petróleo na Caxemira."
-    ],
-    "resposta_correta": "C",
-    "comentário": "A divisão territorial após a independência do domínio britânico gerou disputas territoriais e tensionamentos duradouros, especialmente na Caxemira.",
-    "imagem": "null"
-  },
-{
-  "numero": 21,
-  "enunciado": "Seriam mantidas a correção gramatical e as ideias originais do texto se o último período do texto — 'Não constitui crime (...) consentida pelo proprietário' — fosse reescrito da seguinte forma: 'Quando consentida pelo proprietário a grafitagem, que se faz por meio de manifestação artística com vistas a valorizar o patrimônio, seja ele público ou privado, não é crime.'",
-  "alternativas": [
-    "Certo",
-    "Errado"
-  ],
-  "resposta_correta": "Errado",
-  "comentário": "A reescrita proposta altera a estrutura sintática e pode comprometer a clareza do enunciado original. No texto original, a construção enfatiza que a grafitagem só não constitui crime quando há consentimento do proprietário. No entanto, na reformulação sugerida, há uma inversão na organização das ideias que pode gerar ambiguidade. Além disso, a mudança sintática pode causar problemas na concordância e na relação entre as orações, comprometendo a correção gramatical e a fidelidade ao sentido original.",
-  "imagem": "https://raw.githubusercontent.com/carlosmargemrio/concurso/refs/heads/main/imagem_para_banco_de_respostas/cespe-2018-iphan-tecnico-i-area-2-prova.jpg"
-},
-{
-    "numero": 22,
-    "enunciado": "Qual das seguintes afirmações melhor descreve o impacto das sanções econômicas impostas à Rússia após a invasão da Ucrânia em 2022?",
-    "alternativas": [
-      "A) Reduziram drasticamente o PIB russo, levando a uma recessão de longo prazo.",
-      "B) Não tiveram impacto significativo, pois a Rússia encontrou alternativas comerciais.",
-      "C) Aceleraram a transição da Rússia para uma economia mais autossuficiente e parcerias com China e Índia.",
-      "D) Levaram à falência do setor energético russo devido à dependência europeia de combustíveis fósseis.",
-      "E) Resultaram na retirada total da Rússia do sistema financeiro internacional SWIFT."
-    ],
-    "resposta_correta": "C",
-    "comentário": "As sanções afetaram a economia russa, mas a Rússia conseguiu redirecionar exportações para mercados alternativos, especialmente China e Índia, e buscou estratégias de substituição de importações. O PIB russo se recuperou mais rapidamente do que o esperado, indicando uma transição econômica forçada.",
-    "imagem": "null"
-  },
-  {
-    "numero": 23,
-    "enunciado": "Qual dos seguintes desafios tem sido uma barreira para a consolidação do Mercosul como bloco econômico?",
-    "alternativas": [
-      "A) Falta de interesse dos países membros em aprofundar a integração comercial.",
-      "B) Divergências políticas e econômicas entre os países membros.",
-      "C) Dependência excessiva dos Estados Unidos para negociações comerciais.",
-      "D) Ausência de um mercado comum para a circulação de bens e serviços.",
-      "E) Falta de estrutura para resolver disputas comerciais internas."
-    ],
-    "resposta_correta": "B",
-    "comentário": "O Mercosul enfrenta desafios políticos e econômicos, pois os interesses nacionais frequentemente entram em conflito. Além disso, mudanças políticas nos países membros influenciam a continuidade de políticas de integração.",
-    "imagem": "null"
-  },
-  {
-    "numero": 24,
-    "enunciado": "Qual é um dos principais desafios enfrentados por democracias durante transições políticas?",
-    "alternativas": [
-      "A) A impossibilidade de alternância de poder devido a constituições rígidas.",
-      "B) O risco de desinformação e tentativas de deslegitimação do processo eleitoral.",
-      "C) A falta de instituições reguladoras para monitorar o processo eleitoral.",
-      "D) A ausência de apoio militar para validar os resultados eleitorais.",
-      "E) A proibição de participação de partidos opositores nas eleições."
-    ],
-    "resposta_correta": "B",
-    "comentário": "Desinformação e tentativas de deslegitimação do processo eleitoral são desafios contemporâneos, pois afetam a confiança pública e podem gerar instabilidade institucional.",
-    "imagem": "null"
-  },
-  {
-    "numero": 25,
-    "enunciado": "O fenômeno da 'estagflação' ocorre quando há:",
-    "alternativas": [
-      "A) Crescimento econômico acelerado e inflação elevada.",
-      "B) Inflação elevada e estagnação econômica simultaneamente.",
-      "C) Redução do desemprego acompanhada por aumento da inflação.",
-      "D) Aumento da taxa de juros sem impacto no crescimento econômico.",
-      "E) Expansão fiscal e redução da dívida pública ao mesmo tempo."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A estagflação combina inflação elevada e crescimento econômico baixo ou negativo, tornando sua solução desafiadora, pois políticas para conter a inflação podem agravar a recessão.",
-    "imagem": "null"
-  },
-  {
-    "numero": 26,
-    "enunciado": "Qual das seguintes medidas pode ser utilizada por um país para proteger sua indústria local de concorrência estrangeira?",
-    "alternativas": [
-      "A) Redução das tarifas sobre importações.",
-      "B) Implementação de cotas de importação.",
-      "C) Assinatura de acordos de livre comércio.",
-      "D) Redução da carga tributária sobre bens importados.",
-      "E) Abolição das barreiras alfandegárias."
-    ],
-    "resposta_correta": "B",
-    "comentário": "Cotas de importação limitam a quantidade de produtos estrangeiros no mercado, favorecendo a produção local e reduzindo a competição externa.",
-    "imagem": "null"
-  },
-  {
-    "numero": 27,
-    "enunciado": "O fenômeno da 'bolha de filtro' nas redes sociais refere-se a:",
-    "alternativas": [
-      "A) O bloqueio de conteúdos sensíveis para usuários vulneráveis.",
-      "B) A tendência dos algoritmos de reforçar opiniões pré-existentes do usuário.",
-      "C) A censura de conteúdos políticos polêmicos em plataformas digitais.",
-      "D) A criação de ambientes seguros para discussões abertas e democráticas.",
-      "E) O aumento da transparência na distribuição de informações online."
-    ],
-    "resposta_correta": "B",
-    "comentário": "As redes sociais utilizam algoritmos que priorizam conteúdos alinhados com as preferências do usuário, o que pode limitar a exposição a diferentes pontos de vista e reforçar crenças preexistentes.",
-    "imagem": "null"
-  },
-  {
-    "numero": 28,
-    "enunciado": "Qual dos seguintes desafios é central no debate sobre regulação da inteligência artificial?",
-    "alternativas": [
-      "A) A proibição completa do uso da IA em serviços públicos.",
-      "B) A dificuldade em definir padrões éticos globais para o uso da IA.",
-      "C) A impossibilidade de utilizar IA no setor financeiro.",
-      "D) O consenso internacional sobre como regulamentar a IA de forma homogênea.",
-      "E) A ausência de impactos da IA na força de trabalho."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A regulação da IA envolve desafios éticos e jurídicos complexos, pois diferentes países possuem abordagens distintas sobre privacidade, responsabilidade e segurança.",
-    "imagem": "null"
-  },
-  {
-    "numero": 29,
-    "enunciado": "Qual das seguintes opções representa um efeito direto das mudanças climáticas?",
-    "alternativas": [
-      "A) Aumento da atividade sísmica global.",
-      "B) Redução dos níveis dos oceanos.",
-      "C) Maior frequência e intensidade de eventos climáticos extremos.",
-      "D) Redução do consumo de combustíveis fósseis.",
-      "E) Diminuição da desertificação em regiões áridas."
-    ],
-    "resposta_correta": "C",
-    "comentário": "Cientistas observam um aumento na frequência de eventos climáticos extremos, como furacões e ondas de calor, como consequência do aquecimento global.",
-    "imagem": "null"
-  },
-  {
-    "numero": 30,
-    "enunciado": "O ransomware é um tipo de ataque cibernético que:",
-    "alternativas": [
-      "A) Exclui permanentemente os arquivos do usuário sem possibilidade de recuperação.",
-      "B) Espalha desinformação por meio de redes sociais.",
-      "C) Sequestra dados de um sistema e exige pagamento para sua liberação.",
-      "D) Rouba senhas bancárias sem criptografar os dados.",
-      "E) Interfere apenas em sistemas de governos e grandes corporações."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O ransomware bloqueia o acesso a dados e exige pagamento para sua recuperação, sendo uma das ameaças mais comuns à cibersegurança.",
-    "imagem": "null"
-  },
-  {
-    "numero": 31,
-    "enunciado": "Qual é um dos principais desafios da implementação da educação híbrida no Brasil?",
-    "alternativas": [
-      "A) Falta de professores capacitados para o ensino presencial.",
-      "B) Baixa penetração de tecnologias digitais entre a população.",
-      "C) Redução do número de matrículas em escolas públicas.",
-      "D) A impossibilidade de aplicar metodologias ativas de ensino.",
-      "E) A necessidade de abolir completamente o ensino presencial."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A desigualdade de acesso a dispositivos e internet de qualidade é um grande desafio para a educação híbrida, impactando principalmente estudantes de baixa renda.",
-    "imagem": "null"
-  },
- {
-    "numero": 32,
-    "enunciado": "De acordo com o artigo 216 da Constituição Federal de 1988, quais bens compõem o patrimônio cultural brasileiro?",
-    "alternativas": [
-      "A) Apenas os bens materiais, como edificações tombadas e sítios arqueológicos.",
-      "B) Apenas os bens naturais, como florestas e reservas ambientais.",
-      "C) Os bens materiais e imateriais, incluindo formas de expressão, modos de criar, fazer e viver.",
-      "D) Exclusivamente os bens móveis, como obras de arte e documentos históricos.",
-      "E) Apenas os bens reconhecidos internacionalmente pela UNESCO."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O artigo 216 da Constituição Federal estabelece que o patrimônio cultural brasileiro inclui bens de natureza material e imaterial, como formas de expressão, modos de criar, fazer e viver, além de edificações e sítios arqueológicos.",
-    "imagem": "null"
-  },
-  {
-    "numero": 33,
-    "enunciado": "O Decreto-Lei nº 25 de 1937, que organiza a proteção do patrimônio histórico e artístico nacional, estabelece que:",
-    "alternativas": [
-      "A) Apenas o Iphan pode definir bens a serem tombados, sem participação da sociedade.",
-      "B) Bens tombados pelo Iphan podem ser livremente alienados e modificados pelos proprietários.",
-      "C) O tombamento é um ato administrativo que impõe restrições ao uso e alteração dos bens protegidos.",
-      "D) Sítios arqueológicos não são considerados bens passíveis de tombamento.",
-      "E) O tombamento depende exclusivamente da aprovação do Congresso Nacional."
-    ],
-    "resposta_correta": "C",
-    "comentário": "O Decreto-Lei nº 25/1937 estabelece o tombamento como um ato administrativo que protege bens culturais, impondo restrições para evitar sua descaracterização ou destruição.",
-    "imagem": "null"
-  },
-  {
-    "numero": 34,
-    "enunciado": "Segundo a Lei nº 3.924/1961, que dispõe sobre a proteção ao patrimônio arqueológico e pré-histórico, os sítios arqueológicos:",
-    "alternativas": [
-      "A) São propriedade exclusiva dos estados e municípios onde estão localizados.",
-      "B) Pertencem à União e qualquer intervenção neles requer autorização do Iphan.",
-      "C) Podem ser explorados comercialmente por empresas privadas sem restrições.",
-      "D) São protegidos apenas se estiverem dentro de áreas de conservação ambiental.",
-      "E) Podem ser destruídos para fins de desenvolvimento urbano sem necessidade de estudo prévio."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A Lei nº 3.924/1961 estabelece que os sítios arqueológicos são bens da União, e qualquer intervenção neles requer autorização prévia do Iphan.",
-    "imagem": "null"
-  },
-  {
-    "numero": 35,
-    "enunciado": "A Lei nº 13.653/2018 alterou a regulamentação da profissão de arqueólogo no Brasil. Qual foi uma de suas principais mudanças?",
-    "alternativas": [
-      "A) Excluiu a necessidade de formação específica para atuar na área de arqueologia.",
-      "B) Tornou obrigatório o registro no Conselho de Arquitetura e Urbanismo para atuar como arqueólogo.",
-      "C) Regulamentou a profissão e tornou obrigatória a formação em arqueologia ou áreas afins reconhecidas pelo Iphan.",
-      "D) Permitiu que qualquer profissional de ciências humanas atue como arqueólogo sem necessidade de especialização.",
-      "E) Revogou a necessidade de licenciamento ambiental para pesquisas arqueológicas."
-    ],
-    "resposta_correta": "C",
-    "comentário": "A Lei nº 13.653/2018 regulamentou a profissão de arqueólogo, exigindo formação específica em arqueologia ou áreas afins reconhecidas pelo Iphan.",
-    "imagem": "null"
-  },
-  {
-    "numero": 36,
-    "enunciado": "A Resolução CONAMA nº 1/1986 estabelece diretrizes para estudos de impacto ambiental. No contexto arqueológico, essa resolução determina que:",
-    "alternativas": [
-      "A) Sítios arqueológicos não precisam ser considerados nos estudos de impacto ambiental.",
-      "B) Estudos de impacto ambiental devem obrigatoriamente incluir avaliação arqueológica das áreas afetadas.",
-      "C) Apenas empreendimentos urbanos precisam realizar estudos de impacto arqueológico.",
-      "D) Os estudos de impacto ambiental são de responsabilidade exclusiva das universidades federais.",
-      "E) A análise de impacto arqueológico pode ser dispensada caso o empreendimento seja de interesse nacional."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A Resolução CONAMA nº 1/1986 determina que estudos de impacto ambiental incluam a avaliação de sítios arqueológicos para mitigar possíveis danos ao patrimônio cultural.",
-    "imagem": "null"
-  },
-  {
-    "numero": 37,
-    "enunciado": "De acordo com a Portaria Iphan nº 316/2019, o Cadastro Nacional de Sítios Arqueológicos (CNSA) tem como objetivo:",
-    "alternativas": [
-      "A) Ser um banco de dados restrito ao uso do Iphan e do Ministério da Cultura.",
-      "B) Registrar e documentar os sítios arqueológicos brasileiros, garantindo sua proteção e monitoramento.",
-      "C) Listar apenas sítios arqueológicos tombados internacionalmente pela UNESCO.",
-      "D) Criar um inventário exclusivo para sítios arqueológicos situados em unidades de conservação ambiental.",
-      "E) Definir critérios para a comercialização de artefatos arqueológicos encontrados em território nacional."
-    ],
-    "resposta_correta": "B",
-    "comentário": "O Cadastro Nacional de Sítios Arqueológicos (CNSA) tem como objetivo registrar e monitorar os sítios arqueológicos do Brasil, garantindo sua proteção.",
-    "imagem": "null"
-  },
-  {
-    "numero": 38,
-    "enunciado": "Segundo a Portaria Iphan nº 375/2018, qual é a responsabilidade do arqueólogo coordenador em um projeto de arqueologia preventiva?",
-    "alternativas": [
-      "A) Apenas supervisionar os trabalhos de campo sem necessidade de elaborar relatórios.",
-      "B) Garantir que todas as etapas do projeto arqueológico sejam cumpridas conforme a legislação vigente.",
-      "C) Autorizar a comercialização de artefatos arqueológicos encontrados durante escavações.",
-      "D) Realizar estudos apenas quando houver solicitação do empreendedor.",
-      "E) Excluir o Iphan do processo de análise e aprovação dos estudos arqueológicos."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A Portaria Iphan nº 375/2018 define que o arqueólogo coordenador deve garantir a conformidade do projeto arqueológico com a legislação vigente.",
-    "imagem": "null"
-  },
-  {
-    "numero": 39,
-    "enunciado": "A Portaria Iphan nº 241/1998 trata da guarda e destinação de materiais arqueológicos. Segundo essa portaria, os artefatos encontrados em escavações devem:",
-    "alternativas": [
-      "A) Ser entregues diretamente ao proprietário do terreno onde foram encontrados.",
-      "B) Ser armazenados e estudados em instituições cadastradas pelo Iphan.",
-      "C) Ser destruídos caso não apresentem interesse comercial.",
-      "D) Permanecer no local da escavação, sem necessidade de conservação.",
-      "E) Ser leiloados para financiar futuras pesquisas arqueológicas."
-    ],
-    "resposta_correta": "B",
-    "comentário": "A Portaria Iphan nº 241/1998 estabelece que os artefatos arqueológicos devem ser armazenados e estudados em instituições cadastradas pelo Iphan, garantindo sua preservação.",
-    "imagem": "null"
-  },
-  {
-    "numero": 40,
-    "enunciado": "Conforme a Instrução Normativa Iphan nº 1/2015, um projeto de arqueologia preventiva deve:",
-    "alternativas": [
-      "A) Ser conduzido apenas por arqueólogos amadores.",
-      "B) Ser realizado apenas se houver suspeita de existência de sítios arqueológicos.",
-      "C) Incluir diagnóstico arqueológico, pesquisa e medidas de mitigação de impactos.",
-      "D) Dispensar relatórios técnicos caso não sejam encontrados vestígios arqueológicos.",
-      "E) Depender exclusivamente da autorização do empreendedor para ser iniciado."
-    ],
-    "resposta_correta": "C",
-    "comentário": "A Instrução Normativa Iphan nº 1/2015 exige que projetos de arqueologia preventiva incluam diagnóstico, pesquisa e mitigação de impactos ao patrimônio arqueológico.",
-    "imagem": "null"
-  },
-{
-"numero": 41,
-    "enunciado": "De acordo com a Portaria Iphan nº 159/2016, quem é responsável pela elaboração do Termo de Ajustamento de Conduta?",
-    "alternativas": [
-      "A) O Ministério da Cultura.",
-      "B) O Departamento Jurídico do Iphan.",
-      "C) O Ministério Público Federal.",
-      "D) A superintendência regional do Iphan responsável pela área impactada.",
-      "E) O Conselho Consultivo do Patrimônio Cultural."
-    ],
-    "resposta_correta": "D",
-    "comentário": "A superintendência regional do Iphan é a responsável pela elaboração do TAC conforme a portaria.",
-    "imagem": "null"
-  },
-{
-        "numero": 51,
-        "enunciado": "Sabe-se que, ao menos, desde 13.000 AP há assentamentos humanos desde a América do Norte até o sul da América do Sul. Datas anteriores existem e são cada vez mais comuns nas publicações, mas a sua associação com contextos arqueológicos bem definidos ainda é alvo de controvérsias.",
+    {
+      "numero": 1,
+      "enunciado": "De acordo com a Portaria nº 159/2016 do IPHAN, qual é a definição do Termo de Ajustamento de Conduta (TAC)?",
+      "alternativas": [
+        "A) Instrumento elaborado, à luz do art. 5º, § 6º, da Lei nº 7.347, de 24 de julho de 1985, com objetivo de reparar dano patrimonial e extrapatrimonial causado a um bem acautelado, adequar conduta irregular às disposições legais em vigor e evitar conduta ilícita iminente, caso haja fundado receio de que venha a se concretizar.",
+        "B) Instrumento utilizado pelo IPHAN para fiscalizar bens tombados e aplicar sanções.",
+        "C) Termo que permite a regularização de imóveis históricos sem necessidade de aprovação prévia.",
+        "D) Acordo entre o IPHAN e empresas privadas para preservar bens de interesse cultural."
+      ],
+      "resposta_correta": "A",
+      "comentário": "Conforme o artigo 2º, inciso I, da Portaria, o TAC tem como objetivo reparar danos patrimoniais e extrapatrimoniais, adequar condutas irregulares e evitar ilícitos futuros.",
+      "imagem": "null"
+    },
+    {
+      "numero": 2,
+      "enunciado": "Quais elementos devem obrigatoriamente constar no Termo de Ajustamento de Conduta, segundo a Portaria nº 159/2016?",
+      "alternativas": [
+        "A) Apenas a descrição das obrigações assumidas e o prazo para cumprimento.",
+        "B) 'I - os fundamentos de fato e de direito; II - a descrição das obrigações assumidas; III - o prazo e o modo para o cumprimento das obrigações; e IV - a forma de fiscalização da sua observância.'",
+        "C) A qualificação do compromissário e do compromitente, sem necessidade de especificar sanções.",
+        "D) Apenas a fundamentação legal e a assinatura do compromitente."
+      ],
+      "resposta_correta": "B",
+      "comentário": "O artigo 4º da Portaria determina que o TAC deve conter fundamentos de fato e de direito, descrição das obrigações, prazos, modo de cumprimento e forma de fiscalização.",
+      "imagem": "null"
+    },
+    {
+      "numero": 3,
+      "enunciado": "Como a Portaria nº 159/2016 define 'bem acautelado'?",
+      "alternativas": [
+        "A) 'Todo e qualquer bem jurídico, material e imaterial, sob tutela do IPHAN, compreendendo: os bens tombados, nos termos do Decreto-Lei nº 25, de 30 de novembro de 1937; os bens arqueológicos, protegidos conforme o disposto na Lei nº 3.924, de 26 de julho de 1961; os bens registrados, nos termos do Decreto nº 3.551, de 4 de agosto de 2000; e os bens valorados, nos termos da Lei nº 11.483, de 31 de maio de 2007.'",
+        "B) Apenas bens materiais que possuam valor histórico reconhecido.",
+        "C) Somente os bens tombados pelo Decreto-Lei nº 25/1937.",
+        "D) Somente bens registrados no Decreto nº 3.551/2000."
+      ],
+      "resposta_correta": "A",
+      "comentário": "A definição de 'bem acautelado' está prevista no artigo 2º, inciso III, da Portaria nº 159/2016, abrangendo bens materiais e imateriais protegidos pelo IPHAN.",
+      "imagem": "null"
+    },
+    {
+      "numero": 4,
+      "enunciado": "Qual é a penalidade prevista para o descumprimento das obrigações assumidas no TAC?",
+      "alternativas": [
+        "A) 'O Termo de Ajustamento de Conduta deverá prever expressamente multa por descumprimento das obrigações assumidas.'",
+        "B) Advertência administrativa sem aplicação de sanção monetária.",
+        "C) Apenas a necessidade de renegociação das obrigações não cumpridas.",
+        "D) Multa fixa estabelecida para todos os TACs."
+      ],
+      "resposta_correta": "A",
+      "comentário": "O artigo 14 da Portaria determina que o TAC deve prever multa expressa pelo descumprimento das obrigações assumidas.",
+      "imagem": "null"
+    },
+    {
+      "numero": 5,
+      "enunciado": "Quando o dano envolver bens arqueológicos, qual deve ser a primeira medida prevista no TAC?",
+      "alternativas": [
+        "A) 'Ações de preservação de sítios arqueológicos cadastrados, impactados ou não pelo empreendimento (delimitação, sinalização, socialização, pesquisa, resgate, dentre outras), salvo nos casos em que tais ações já figurem como obrigação do empreendedor no processo de licenciamento.'",
+        "B) Compensação financeira direta ao IPHAN.",
+        "C) Exclusivamente o recadastramento dos sítios arqueológicos afetados.",
+        "D) Ações de preservação de bens tombados, sem necessidade de relação com a arqueologia."
+      ],
+      "resposta_correta": "A",
+      "comentário": "Conforme o artigo 8º da Portaria, a prioridade no TAC é a preservação dos sítios arqueológicos cadastrados, impactados ou não.",
+      "imagem": "null"
+    },
+    {
+      "numero": 6,
+      "enunciado": "Segundo a Portaria nº 159/2016, quais são os requisitos para um Projeto de Educação Patrimonial?",
+      "alternativas": [
+        "A) 'I - tema a ser desenvolvido; II - definição do público alvo; III - objetivos; IV - justificativa; V - metodologia; VI - descrição da equipe multidisciplinar responsável; VII - cronograma de execução; e VIII - mecanismos de avaliação.'",
+        "B) Apenas a realização de palestras e eventos para divulgação do patrimônio cultural.",
+        "C) Exclusivamente a publicação de cartilhas e materiais educativos.",
+        "D) Programas de incentivo a doações para restauração de bens tombados."
+      ],
+      "resposta_correta": "A",
+      "comentário": "O artigo 11 da Portaria define os elementos obrigatórios de um Projeto de Educação Patrimonial.",
+      "imagem": "null"
+    },
+    {
+      "numero": 7,
+      "enunciado": "Nos casos de danos a bens imateriais registrados, qual é a primeira medida compensatória prevista no TAC?",
+      "alternativas": [
+        "A) 'Ações de salvaguarda do bem em risco, entre aquelas relacionadas aos seis eixos de atividades do patrimônio imaterial descritas no anexo I.'",
+        "B) Compensação financeira direta aos responsáveis pelo bem cultural.",
+        "C) Doação de materiais históricos a museus.",
+        "D) Criação de um novo bem imaterial para substituir o afetado."
+      ],
+      "resposta_correta": "A",
+      "comentário": "O artigo 9º da Portaria determina que a primeira medida compensatória para bens imateriais é a realização de ações de salvaguarda.",
+      "imagem": "null"
+    },
+    {
+      "numero": 8,
+      "enunciado": "Quem deve autorizar a assinatura do TAC pelo IPHAN?",
+      "alternativas": [
+        "A) 'A assinatura do Termo de Ajustamento de Conduta pressupõe prévia autorização do Advogado-Geral da União ou de autoridade a quem tenha sido delegada tal atribuição.'",
+        "B) Apenas o Presidente do IPHAN, sem necessidade de parecer jurídico.",
+        "C) Homologação do Congresso Nacional.",
+        "D) Aprovação por consulta pública antes da assinatura."
+      ],
+      "resposta_correta": "A",
+      "comentário": "O artigo 3º determina que a assinatura do TAC pelo IPHAN deve ser previamente autorizada pelo Advogado-Geral da União ou por autoridade delegada.",
+      "imagem": "null"
+    },
+    {
+        "numero": 9,
+        "enunciado": "Nos casos em que o IPHAN figurar como compromitente, quais obrigações podem ser previstas no TAC?",
         "alternativas": [
-            "Certo",
-            "Errado"
+          "A) 'I - O desenvolvimento de Projetos de Educação Patrimonial, conforme o estabelecido no art. 11 desta portaria; II - A publicação de livros e cartilhas, desde que associada a Projetos de Educação Patrimonial.'",
+          "B) Apenas o pagamento de indenização pelo dano causado.",
+          "C) Obrigações relacionadas a qualquer bem cultural, independentemente de sua vinculação com o dano identificado.",
+          "D) Exclusivamente o financiamento de exposições sobre o patrimônio cultural."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A datação de ocupação humana nas Américas ainda é um tema em debate. Embora o modelo tradicional sugira 13.000 AP (associado à cultura Clóvis), há evidências mais antigas, como os sítios da Serra da Capivara no Brasil. No entanto, a falta de associação direta entre objetos culturais e datações pré-Clóvis torna o tema controverso.",
+        "resposta_correta": "A",
+        "comentário": "O artigo 10 da Portaria estabelece que, nos casos em que o IPHAN figurar como compromitente, podem ser previstas ações de educação patrimonial e publicações associadas.",
+        "imagem": "null"
+      },
+      {
+        "numero": 10,
+        "enunciado": "Sobre os prazos no TAC, qual a recomendação expressa da Portaria nº 159/2016?",
+        "alternativas": [
+          "A) 'Deverá ser estabelecido o prazo e o modo de cumprimento de cada uma das obrigações estipuladas, evitando-se fixar prazo único para o cumprimento de todas as obrigações.'",
+          "B) O prazo deve ser único para todas as obrigações previstas.",
+          "C) O TAC não pode estipular prazos, apenas metas qualitativas.",
+          "D) O prazo de cada obrigação deve ser o mesmo do processo administrativo correspondente."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 12 da Portaria determina que cada obrigação deve ter um prazo específico, evitando a fixação de um prazo único para todo o TAC.",
+        "imagem": "null"
+      },
+      {
+        "numero": 11,
+        "enunciado": "Em caso de impossibilidade de observância dos requisitos de um TAC, o que deve ser feito?",
+        "alternativas": [
+          "A) 'A impossibilidade de observância de qualquer um dos incisos elencados neste artigo deverá ser devidamente demonstrada pela área técnica.'",
+          "B) O TAC deve ser anulado automaticamente.",
+          "C) A obrigação deve ser substituída por pagamento de indenização.",
+          "D) O IPHAN deve convocar audiência pública para renegociação."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 6º prevê que qualquer impossibilidade de cumprimento das obrigações no TAC deve ser devidamente justificada pela área técnica.",
+        "imagem": "null"
+      },
+      {
+        "numero": 12,
+        "enunciado": "Nos casos de descumprimento de obrigações no TAC, quando a multa deve ser aplicada?",
+        "alternativas": [
+          "A) 'Quanto se tratar de obrigação de pagar ou fazer, a multa deve incidir a cada dia de atraso, a partir do primeiro dia subsequente ao prazo estipulado.'",
+          "B) Apenas ao final do prazo total do TAC.",
+          "C) Somente se houver reincidência do descumprimento.",
+          "D) Apenas em casos de danos materiais."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 14, §1º, determina que, no caso de obrigações de pagar ou fazer, a multa incide a cada dia de atraso.",
+        "imagem": "null"
+      },
+      {
+        "numero": 13,
+        "enunciado": "Quais elementos devem estar presentes na definição dos fatos e fundamentos de direito no TAC?",
+        "alternativas": [
+          "A) 'I - identificação do processo administrativo no qual foi formalizado; II - qualificação de todas as partes envolvidas e de seus respectivos representantes; III - identificação do bem acautelado e, caso se trate de bem patrimonial de natureza material, sua localização descrita e georreferenciada; IV - identificação da conduta ilícita e especificação do dano causado, se houver; e V - indicação do(s) dispositivo(s) legais violados.'",
+          "B) Apenas a identificação do bem acautelado e do responsável pelo dano.",
+          "C) A definição de um prazo para cumprimento da obrigação, sem necessidade de outras formalizações.",
+          "D) Um parecer técnico detalhado sobre os danos causados, sem referência ao processo administrativo."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 5º especifica os elementos obrigatórios que devem constar na definição dos fatos e fundamentos de direito do TAC.",
+        "imagem": "null"
+      },
+      {
+        "numero": 14,
+        "enunciado": "No caso de bens registrados, quais são as ações prioritárias em um TAC?",
+        "alternativas": [
+          "A) 'I - Ações de salvaguarda do bem em risco, entre aquelas relacionadas aos seis eixos de atividades do patrimônio imaterial descritas no anexo I; II - Ações de apoio aos detentores dos bens em risco; III - Ações de fortalecimento das instituições ou comunidades associadas ao bem em risco.'",
+          "B) Ações de monitoramento remoto, sem necessidade de intervenção local.",
+          "C) Exclusivamente a compensação financeira aos detentores do bem cultural.",
+          "D) Ações de substituição do bem cultural por outro de valor equivalente."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 9º da Portaria estabelece as ações prioritárias para bens registrados em risco.",
+        "imagem": "null"
+      },
+      {
+        "numero": 15,
+        "enunciado": "Quando pode ser prevista a obrigação de não fazer no TAC?",
+        "alternativas": [
+          "A) 'Em qualquer caso, havendo fundado receio de que o ato ilícito venha a ser reiterado, o Termo de Ajustamento de Conduta deve conter cláusula específica com previsão da obrigação de não fazer, bem como de multa pelo seu descumprimento.'",
+          "B) Apenas se houver dano material já consolidado.",
+          "C) Somente em casos que envolvam bens arqueológicos.",
+          "D) Apenas se houver uma decisão judicial que obrigue essa cláusula."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 7º, §6º, da Portaria prevê a inclusão da obrigação de não fazer sempre que houver risco de repetição do ilícito.",
+        "imagem": "null"
+      },
+      {
+        "numero": 16,
+        "enunciado": "Em quais situações o IPHAN pode figurar como compromissário no TAC?",
+        "alternativas": [
+          "A) 'Na hipótese de o IPHAN figurar como compromissário, a assinatura do Termo de Ajustamento de Conduta pressupõe prévia autorização do Advogado-Geral da União ou de autoridade a quem tenha sido delegada tal atribuição.'",
+          "B) Sempre que houver interesse na fiscalização de bens arqueológicos.",
+          "C) Apenas nos casos de tombamento de bens materiais.",
+          "D) Exclusivamente quando há previsão de compensação financeira."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 3º, §2º, exige autorização prévia da AGU ou autoridade delegada para que o IPHAN assine um TAC como compromissário.",
+        "imagem": "null"
+      },
+      {
+        "numero": 17,
+        "enunciado": "Quando a reparação do dano causado pode ser substituída por pagamento em dinheiro?",
+        "alternativas": [
+          "A) 'Não havendo possibilidade de reparação integral do dano causado, as medidas de reparação específicas devem ser associadas a medidas compensatórias e/ou ao pagamento por equivalente em dinheiro.'",
+          "B) Sempre que o compromissário solicitar, independentemente da análise técnica.",
+          "C) Quando for mais vantajoso financeiramente para o IPHAN.",
+          "D) Nunca, pois a reparação deve ser sempre material."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 7º, §2º, estabelece que a compensação financeira pode ser utilizada apenas se não houver possibilidade de reparação integral.",
+        "imagem": "null"
+      },
+      {
+        "numero": 18,
+        "enunciado": "Suponha que uma empresa tenha causado danos irreversíveis a um sítio arqueológico protegido pelo IPHAN. Considerando a Portaria nº 159/2016, qual das seguintes abordagens mais se alinha ao princípio de reparação estabelecido no TAC?",
+        "alternativas": [
+          "A) A empresa deve executar ações de preservação de outros sítios arqueológicos cadastrados e promover educação patrimonial, uma vez que a recuperação integral do sítio danificado é inviável.",
+          "B) A empresa deve apenas pagar uma indenização financeira ao IPHAN, pois não há como restaurar o bem danificado.",
+          "C) O IPHAN deve cancelar automaticamente qualquer possibilidade de TAC e encaminhar o caso diretamente para o Ministério Público.",
+          "D) O IPHAN pode permitir que a empresa construa um novo sítio arqueológico em outro local para substituir o danificado."
+        ],
+        "resposta_correta": "A",
+        "comentário": "De acordo com o artigo 7º, §2º da Portaria, quando a reparação integral do dano não é possível, o TAC deve prever medidas compensatórias, como preservação de outros sítios e ações educativas, sempre seguindo a ordem de preferência estabelecida.",
+        "imagem": "null"
+      },
+      {
+        "numero": 19,
+        "enunciado": "Um município está em processo de urbanização de uma área que contém bens culturais registrados como patrimônio imaterial. Caso o TAC seja firmado para evitar a descaracterização desse patrimônio, qual das seguintes medidas seria mais compatível com as diretrizes da Portaria nº 159/2016?",
+        "alternativas": [
+          "A) Implementar ações de salvaguarda do bem cultural, promovendo oficinas e capacitação para garantir sua continuidade, conforme previsto nos seis eixos do patrimônio imaterial.",
+          "B) Realocar a população detentora do patrimônio para outra área e oferecer compensação financeira como forma de preservação cultural.",
+          "C) Criar um museu para registrar as tradições culturais locais, permitindo que o bem imaterial deixe de ser praticado na área urbanizada.",
+          "D) Oferecer incentivos fiscais para que empresários patrocinem eventos culturais pontuais no município."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 9º estabelece que a primeira medida de compensação para bens imateriais deve ser a salvaguarda do bem em risco, o que inclui capacitação e oficinas para garantir a continuidade das práticas culturais.",
+        "imagem": "null"
+      },
+      {
+        "numero": 20,
+        "enunciado": "Uma empresa realizou uma obra em um centro histórico tombado e descumpriu normas de preservação, alterando a fachada de edifícios protegidos. Com base na Portaria nº 159/2016, qual seria a melhor forma de estruturar um TAC para esse caso?",
+        "alternativas": [
+          "A) O TAC deve priorizar a restituição dos bens ao seu estado original, obrigando a empresa a financiar a restauração das fachadas alteradas, seguindo critérios técnicos.",
+          "B) O TAC deve apenas estabelecer uma multa financeira proporcional ao custo estimado da restauração, sem exigir reparação direta.",
+          "C) O IPHAN deve solicitar que a empresa realize projetos de educação patrimonial para compensar a modificação dos edifícios, sem necessidade de restaurá-los.",
+          "D) A empresa pode propor novas intervenções urbanísticas para compensar a modificação das fachadas, desde que respeite padrões arquitetônicos modernos."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O artigo 7º da Portaria estabelece que, sempre que possível, a primeira prioridade na reparação do dano é a restituição do bem ao seu estado original, garantindo a preservação das características históricas e culturais.",
+        "imagem": "null"
+      },
+      {
+        "numero": 21,
+        "enunciado": "Qual é o principal objetivo da Portaria nº 137/2016 do IPHAN?",
+        "alternativas": [
+          "A) Regulamentar a criação de novos museus para a preservação do patrimônio cultural.",
+          "B) Estabelecer diretrizes para a Educação Patrimonial no âmbito do IPHAN e das Casas do Patrimônio.",
+          "C) Criar normas para fiscalização e aplicação de penalidades em bens tombados.",
+          "D) Definir critérios para concessão de financiamento a projetos culturais."
+        ],
+        "resposta_correta": "B",
+        "comentário": "A Portaria nº 137/2016 tem como principal objetivo estabelecer diretrizes para a Educação Patrimonial (EP), garantindo que essa prática seja transversal aos processos de preservação e valorização do patrimônio cultural no IPHAN.",
+        "imagem": "null"
+      },
+      {
+        "numero": 22,
+        "enunciado": "De acordo com a Portaria nº 137/2016, como a Educação Patrimonial deve ser conduzida?",
+        "alternativas": [
+          "A) Como um processo unilateral, em que o IPHAN transmite informações às comunidades.",
+          "B) Como um processo formal, restrito às instituições de ensino superior e centros de pesquisa.",
+          "C) Como um processo coletivo e dialógico, envolvendo participação social e agentes culturais.",
+          "D) Como um conjunto de atividades pontuais de divulgação e esclarecimento sobre o patrimônio."
+        ],
+        "resposta_correta": "C",
+        "comentário": "A Educação Patrimonial, segundo a Portaria, deve ser um processo educativo coletivo e dialógico, garantindo o envolvimento das comunidades e a participação ativa dos agentes sociais na preservação do patrimônio.",
+        "imagem": "null"
+      },
+      {
+        "numero": 23,
+        "enunciado": "A Portaria nº 137/2016 estabelece que a Educação Patrimonial deve considerar:",
+        "alternativas": [
+          "A) O patrimônio cultural como tema transversal e interdisciplinar.",
+          "B) O ensino exclusivamente formal como principal estratégia educativa.",
+          "C) A imposição de diretrizes rígidas para todas as comunidades envolvidas.",
+          "D) O patrimônio cultural apenas como bem material e protegido pelo IPHAN."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria destaca que a Educação Patrimonial deve considerar o patrimônio cultural como um tema transversal e interdisciplinar, permitindo abordagens variadas e contextualizadas.",
+        "imagem": "null"
+      },
+      {
+        "numero": 24,
+        "enunciado": "Quais são alguns dos princípios fundamentais da Educação Patrimonial, conforme a Portaria nº 137/2016?",
+        "alternativas": [
+          "A) Participação social, intersetorialidade e valorização do território.",
+          "B) Exclusividade das ações educativas em ambientes escolares.",
+          "C) Ênfase na penalização por descumprimento das regras patrimoniais.",
+          "D) Restrição do acesso às informações sobre o patrimônio."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria enfatiza que a Educação Patrimonial deve garantir participação social, integração com diferentes setores (intersetorialidade) e valorização do território como espaço educativo.",
+        "imagem": "null"
+      },
+      {
+        "numero": 25,
+        "enunciado": "O que são as Casas do Patrimônio, segundo a Portaria nº 137/2016?",
+        "alternativas": [
+          "A) Unidades administrativas do IPHAN responsáveis por fiscalizar bens tombados.",
+          "B) Espaços institucionais destinados à promoção da Educação Patrimonial.",
+          "C) Museus obrigatórios em todas as cidades com patrimônio tombado.",
+          "D) Departamentos do IPHAN dedicados exclusivamente a pesquisas arqueológicas."
+        ],
+        "resposta_correta": "B",
+        "comentário": "As Casas do Patrimônio são espaços institucionais organizados em parceria com a sociedade civil e outras instituições para promover ações educativas voltadas ao patrimônio cultural.",
+        "imagem": "null"
+      },
+      {
+        "numero": 26,
+        "enunciado": "Para que uma Casa do Patrimônio seja estabelecida, conforme a Portaria nº 137/2016, é necessário:",
+        "alternativas": [
+          "A) Que seja formalizada por meio de um Acordo de Cooperação Técnica.",
+          "B) Que seja vinculada exclusivamente a universidades e centros de pesquisa.",
+          "C) Que tenha um orçamento próprio fornecido pelo IPHAN.",
+          "D) Que seja aprovada por consulta popular em cada município."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A organização e funcionamento das Casas do Patrimônio devem ocorrer por meio de Acordo de Cooperação Técnica (ACT), envolvendo diferentes atores sociais e instituições.",
+        "imagem": "null"
+      },
+      {
+        "numero": 27,
+        "enunciado": "Qual das seguintes NÃO é uma diretriz da Educação Patrimonial, segundo a Portaria nº 137/2016?",
+        "alternativas": [
+          "A) Incentivar a participação social na formulação de ações educativas.",
+          "B) Valorizar o território como espaço educativo.",
+          "C) Garantir a exclusividade do IPHAN na criação e execução dos projetos educativos.",
+          "D) Associar a preservação do patrimônio ao desenvolvimento sustentável."
+        ],
+        "resposta_correta": "C",
+        "comentário": "A Educação Patrimonial deve ser coletiva e dialógica, garantindo a participação de diferentes atores sociais, e não exclusiva ao IPHAN.",
+        "imagem": "null"
+      },
+      {
+        "numero": 28,
+        "enunciado": "Sobre os documentos referenciais citados na Portaria nº 137/2016, quais são mencionados?",
+        "alternativas": [
+          "A) 'Educação Patrimonial: Histórico, conceitos e processos' e 'Educação Patrimonial: inventários participativos'.",
+          "B) 'O patrimônio cultural e a sociedade' e 'Manual de tombamento de bens culturais'.",
+          "C) 'Gestão de sítios arqueológicos' e 'Preservação do patrimônio material'.",
+          "D) 'Manual técnico do IPHAN' e 'Códigos de conservação do patrimônio'."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria menciona os documentos 'Educação Patrimonial: Histórico, conceitos e processos' (IPHAN, 2014) e 'Educação Patrimonial: inventários participativos' (IPHAN, 2016) como referenciais para a prática da EP.",
+        "imagem": "null"
+      },
+      {
+        "numero": 29,
+        "enunciado": "Qual das seguintes ações é prevista como objetivo das Casas do Patrimônio?",
+        "alternativas": [
+          "A) Ampliar a capilaridade das ações do IPHAN.",
+          "B) Restringir o acesso à informação sobre bens tombados.",
+          "C) Penalizar atividades turísticas que afetem o patrimônio.",
+          "D) Centralizar todas as ações de preservação no IPHAN."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria estabelece que as Casas do Patrimônio devem ampliar a capilaridade das ações do IPHAN, garantindo maior alcance das práticas educativas e participativas.",
+        "imagem": "null"
+      },
+      {
+        "numero": 30,
+        "enunciado": "Segundo a Portaria nº 137/2016, quais são os objetivos das Casas do Patrimônio?",
+        "alternativas": [
+          "A) Promover ações educativas e fortalecer o diálogo entre IPHAN e a sociedade.",
+          "B) Centralizar todas as atividades de pesquisa e fiscalização do IPHAN.",
+          "C) Criar espaços exclusivos para especialistas em patrimônio cultural.",
+          "D) Substituir as superintendências estaduais na gestão do patrimônio."
+        ],
+        "resposta_correta": "A",
+        "comentário": "As Casas do Patrimônio têm como principal objetivo ampliar o diálogo com a sociedade e fortalecer a Educação Patrimonial, promovendo ações educativas para a valorização do patrimônio cultural.",
+        "imagem": "null"
+      },
+      {
+        "numero": 31,
+        "enunciado": "Conforme a Portaria nº 137/2016, a intersetorialidade da Educação Patrimonial envolve articulações com quais áreas?",
+        "alternativas": [
+          "A) Cultura, turismo, meio ambiente, educação, saúde e desenvolvimento urbano.",
+          "B) Somente cultura e turismo, pois são diretamente relacionadas ao patrimônio.",
+          "C) Exclusivamente educação, pois é um processo de ensino-aprendizagem.",
+          "D) Apenas meio ambiente e desenvolvimento urbano, visando impacto territorial."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A intersetorialidade da Educação Patrimonial abrange diversas áreas, como cultura, turismo, meio ambiente, educação, saúde e desenvolvimento urbano, promovendo abordagens amplas e integradas.",
+        "imagem": "null"
+      },
+      {
+        "numero": 32,
+        "enunciado": "A Educação Patrimonial deve incentivar o protagonismo de quais atores sociais, segundo a Portaria nº 137/2016?",
+        "alternativas": [
+          "A) Somente órgãos públicos responsáveis pela proteção do patrimônio.",
+          "B) Apenas instituições de ensino e pesquisa especializadas em patrimônio.",
+          "C) Diferentes grupos sociais, garantindo participação ampla e democrática.",
+          "D) Exclusivamente especialistas credenciados pelo IPHAN."
+        ],
+        "resposta_correta": "C",
+        "comentário": "A Portaria enfatiza a importância do protagonismo social, permitindo que diferentes grupos participem da formulação e execução das ações de Educação Patrimonial.",
+        "imagem": "null"
+      },
+      {
+        "numero": 33,
+        "enunciado": "O que a Portaria nº 137/2016 determina sobre a relação entre patrimônio cultural e território?",
+        "alternativas": [
+          "A) O território deve ser reconhecido como espaço educativo e de interpretação.",
+          "B) O território deve ser protegido de qualquer interação social para evitar degradação.",
+          "C) O patrimônio cultural não deve ser relacionado ao território para evitar disputas.",
+          "D) O território só deve ser estudado se houver patrimônio tombado pelo IPHAN."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria determina que o território seja valorizado como espaço educativo, permitindo múltiplas leituras e interpretações por meio de diferentes estratégias educacionais.",
+        "imagem": "null"
+      },
+      {
+        "numero": 34,
+        "enunciado": "De acordo com a Portaria nº 137/2016, quais são as formas de implementação da Educação Patrimonial pelo IPHAN?",
+        "alternativas": [
+          "A) Através das Casas do Patrimônio e ações intersetoriais.",
+          "B) Por meio exclusivo de cursos superiores e centros de pesquisa.",
+          "C) Apenas por meio de programas educativos em escolas públicas.",
+          "D) Somente através de publicações técnicas de acesso restrito."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria estabelece que a Educação Patrimonial é implementada por meio das Casas do Patrimônio e ações intersetoriais, conectando diferentes políticas públicas.",
+        "imagem": "null"
+      },
+      {
+        "numero": 35,
+        "enunciado": "Quais são alguns dos instrumentos estratégicos para a Educação Patrimonial citados na Portaria nº 137/2016?",
+        "alternativas": [
+          "A) As Casas do Patrimônio e os Acordos de Cooperação Técnica.",
+          "B) Somente convênios com universidades e instituições estrangeiras.",
+          "C) A criação de novos órgãos administrativos dentro do IPHAN.",
+          "D) Apenas atividades presenciais em escolas de ensino médio."
+        ],
+        "resposta_correta": "A",
+        "comentário": "As Casas do Patrimônio e os Acordos de Cooperação Técnica são citados na Portaria como instrumentos fundamentais para implementação das ações de Educação Patrimonial.",
+        "imagem": "null"
+      },
+      {
+        "numero": 36,
+        "enunciado": "Segundo a Portaria nº 137/2016, a valorização do patrimônio cultural está relacionada com:",
+        "alternativas": [
+          "A) A construção de relações de afetividade e estima pelas referências culturais.",
+          "B) A obrigatoriedade de frequentar cursos formais sobre patrimônio.",
+          "C) A criação de penalidades para quem não reconhecer o patrimônio.",
+          "D) O tombamento compulsório de bens culturais, independentemente da comunidade."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria destaca que a valorização do patrimônio está diretamente ligada à afetividade e estima que as comunidades e indivíduos desenvolvem em relação a ele.",
+        "imagem": "null"
+      },
+      {
+        "numero": 37,
+        "enunciado": "Quais são os documentos referenciais indicados na Portaria nº 137/2016 para a Educação Patrimonial?",
+        "alternativas": [
+          "A) 'Educação Patrimonial: Histórico, conceitos e processos' e 'Educação Patrimonial: inventários participativos'.",
+          "B) 'Manual do Gestor Cultural' e 'Código de Patrimônio Nacional'.",
+          "C) 'Planejamento Urbano e Cultura' e 'Preservação Ambiental e Patrimônio'.",
+          "D) 'Guia de Arqueologia Brasileira' e 'Legislação do Patrimônio Imaterial'."
+        ],
+        "resposta_correta": "A",
+        "comentário": "Os documentos referenciais mencionados na Portaria são 'Educação Patrimonial: Histórico, conceitos e processos' (2014) e 'Educação Patrimonial: inventários participativos' (2016).",
+        "imagem": "null"
+      },
+      {
+        "numero": 38,
+        "enunciado": "A Portaria nº 137/2016 estabelece que a Educação Patrimonial deve integrar diferentes políticas públicas, como turismo, meio ambiente e educação. Qual é o impacto dessa abordagem intersetorial?",
+        "alternativas": [
+          "A) Permite que a preservação do patrimônio cultural seja ampliada, pois se conecta a diversas áreas que influenciam a sociedade.",
+          "B) Descentraliza a responsabilidade do IPHAN, dificultando o controle sobre ações educativas e de preservação.",
+          "C) Foca apenas na valorização econômica do patrimônio, relegando sua importância cultural a segundo plano.",
+          "D) Enfraquece o papel das comunidades locais na proteção do patrimônio, pois exige participação de grandes instituições."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A abordagem intersetorial da Educação Patrimonial, conforme a Portaria nº 137/2016, fortalece a preservação do patrimônio ao conectá-la a outras políticas públicas, ampliando seu impacto social e garantindo maior participação da sociedade.",
+        "imagem": "null"
+      },
+      {
+        "numero": 39,
+        "enunciado": "A Portaria enfatiza a importância do território como espaço educativo e de interpretação. Como essa diretriz influencia as práticas de Educação Patrimonial?",
+        "alternativas": [
+          "A) Garante que a valorização do patrimônio seja contextualizada dentro dos espaços onde as comunidades vivem e interagem.",
+          "B) Exige que a Educação Patrimonial seja restrita a áreas tombadas pelo IPHAN, garantindo controle institucional.",
+          "C) Prioriza exclusivamente ações formais de ensino dentro das escolas e universidades.",
+          "D) Enfatiza que o território deve ser protegido de qualquer uso, impedindo visitas e interações comunitárias."
+        ],
+        "resposta_correta": "A",
+        "comentário": "Ao considerar o território como espaço educativo, a Portaria promove práticas que contextualizam o patrimônio cultural dentro das realidades locais, permitindo que a Educação Patrimonial esteja integrada ao cotidiano das comunidades.",
+        "imagem": "null"
+      },
+      {
+        "numero": 40,
+        "enunciado": "A participação das comunidades é uma diretriz central da Portaria nº 137/2016. Qual das alternativas melhor exemplifica uma ação de Educação Patrimonial que atende a essa diretriz?",
+        "alternativas": [
+          "A) Um projeto que envolve moradores locais na construção de narrativas sobre o patrimônio, considerando suas vivências e memórias.",
+          "B) Uma exposição sobre patrimônio montada exclusivamente por especialistas do IPHAN, sem consulta popular.",
+          "C) Um programa de ensino à distância sobre patrimônio cultural, sem atividades presenciais ou interações comunitárias.",
+          "D) Um relatório técnico produzido pelo IPHAN e disponibilizado em site oficial, sem ações de socialização do conteúdo."
+        ],
+        "resposta_correta": "A",
+        "comentário": "A Portaria nº 137/2016 valoriza a participação social na Educação Patrimonial. Projetos que envolvem as comunidades, considerando suas memórias e experiências, garantem um processo dialógico e inclusivo.",
+        "imagem": "null"
+      },
+      {
+        "numero": 41,
+        "enunciado": "Qual é a principal finalidade da Instrução Normativa nº 001 DE 25 DE MARÇO DE 2015?",
+        "alternativas": [
+            "A) Regulamentar os processos de tombamento de bens culturais no Brasil.",
+            "B) Estabelecer procedimentos administrativos para a participação do IPHAN no licenciamento ambiental.",
+            "C) Criar novas normas para a proteção do patrimônio histórico.",
+            "D) Dispor sobre as competências do Ministério da Cultura no licenciamento ambiental."
+        ],
+        "resposta_correta": "B",
+        "comentário": "A finalidade da Instrução Normativa nº 001/2015 está expressa no Art. 1º, que estabelece procedimentos administrativos a serem seguidos pelo IPHAN nos processos de licenciamento ambiental.",
+        "imagem": "null"
+    },
+    {
+        "numero": 42,
+        "enunciado": "Segundo a Instrução Normativa nº 001/2015, quais são os bens culturais acautelados em âmbito federal?",
+        "alternativas": [
+            "A) Apenas os bens tombados pelo IPHAN.",
+            "B) Bens tombados, bens arqueológicos, bens registrados e bens valorados.",
+            "C) Somente os bens registrados e os bens arqueológicos.",
+            "D) Apenas os bens arqueológicos e os bens tombados."
+        ],
+        "resposta_correta": "B",
+        "comentário": "Conforme o Art. 2º da Instrução Normativa nº 001/2015, os bens culturais acautelados são aqueles tombados (Decreto-Lei nº 25/1937), arqueológicos (Lei nº 3.924/1961), registrados (Decreto nº 3.551/2000) e valorados (Lei nº 11.483/2007).",
+        "imagem": "null"
+    },
+    {
+        "numero": 43,
+        "enunciado": "Qual documento serve como base para a manifestação do IPHAN nos processos de licenciamento ambiental?",
+        "alternativas": [
+            "A) Relatório de Impacto Ambiental (RIMA).",
+            "B) Ficha de Caracterização da Atividade (FCA).",
+            "C) Laudo de Avaliação Cultural (LAC).",
+            "D) Termo de Ajustamento de Conduta (TAC)."
+        ],
+        "resposta_correta": "B",
+        "comentário": "O Art. 3º da Instrução Normativa estabelece que o IPHAN se manifestará a partir da solicitação formal do órgão ambiental licenciador, com base na Ficha de Caracterização da Atividade (FCA) ou documento equivalente.",
+        "imagem": "null"
+    },
+    {
+        "numero": 44,
+        "enunciado": "Em quais situações o IPHAN receberá a solicitação de licenciamento ambiental em sua Sede Nacional?",
+        "alternativas": [
+            "A) Quando se tratar de empreendimentos estaduais.",
+            "B) Quando envolver mais de um estado ou pesquisa em meio subaquático.",
+            "C) Apenas quando envolver bens culturais imateriais.",
+            "D) Quando houver interesse do empreendedor na centralização do processo."
+        ],
+        "resposta_correta": "B",
+        "comentário": "O Art. 4º estabelece que, nos casos de licenciamento ambiental federal (Lei Complementar nº 140/2011) ou quando houver necessidade de pesquisa em meio subaquático, o IPHAN receberá a solicitação em sua Sede Nacional.",
+        "imagem": "null"
+    },
+    {
+        "numero": 45,
+        "enunciado": "Quais são as manifestações conclusivas do IPHAN nos processos de licenciamento ambiental?",
+        "alternativas": [
+            "A) São aquelas que abordam apenas bens tombados.",
+            "B) Limitam-se a recomendações para a preservação de sítios arqueológicos.",
+            "C) Consideram todos os bens culturais tombados, valorados, registrados e arqueológicos.",
+            "D) Devem ser ratificadas pelo Ministério da Cultura antes de serem enviadas ao órgão ambiental licenciador."
+        ],
+        "resposta_correta": "C",
+        "comentário": "O Art. 6º estabelece que as manifestações conclusivas do IPHAN abordam todos os bens culturais tombados, valorados e registrados, além dos bens arqueológicos, visando à obtenção de licenças ambientais.",
+        "imagem": "null"
+    },
+    {
+        "numero": 46,
+        "enunciado": "Qual a consequência da não apresentação dos relatórios de acompanhamento arqueológico exigidos pelo IPHAN?",
+        "alternativas": [
+            "A) Paralisação da obra e sanções ao arqueólogo coordenador.",
+            "B) Aplicação de multa diretamente ao IPHAN.",
+            "C) Isenção do empreendedor em relação às obrigações arqueológicas.",
+            "D) Cancelamento automático do licenciamento ambiental sem possibilidade de recurso."
+        ],
+        "resposta_correta": "A",
+        "comentário": "O Art. 17 da Instrução Normativa prevê que a não apresentação sem justificativa técnica fundamentada dos relatórios pode acarretar na paralisação da obra e na aplicação de sanções ao arqueólogo coordenador.",
+        "imagem": "null"
+    },
+    {
+        "numero": 47,
+        "enunciado": "No contexto da Instrução Normativa nº 001/2015, qual é a função do Termo de Compromisso do Empreendedor (TCE)?",
+        "alternativas": [
+            "A) Isentar o empreendedor de qualquer responsabilidade arqueológica.",
+            "B) Formalizar o compromisso do empreendedor com a proteção do patrimônio arqueológico.",
+            "C) Substituir a necessidade de estudos de impacto ambiental.",
+            "D) Permitir que o empreendedor escolha as medidas de mitigação sem supervisão do IPHAN."
+        ],
+        "resposta_correta": "B",
+        "comentário": "O Art. 15 determina que, para empreendimentos classificados como Nível I, será exigido exclusivamente o Termo de Compromisso do Empreendedor (TCE), que formaliza a responsabilidade pela proteção do patrimônio arqueológico.",
+        "imagem": "null"
+    },
+    {
+        "numero": 48,
+        "enunciado": "O que é considerado crime de acordo com a Instrução Normativa nº 001/2015?",
+        "alternativas": [
+            "A) Construção em áreas tombadas sem autorização do IPHAN.",
+            "B) Divulgação de pesquisas arqueológicas sem autorização.",
+            "C) Apresentação de estudo ou relatório total ou parcialmente falso ou enganoso.",
+            "D) Não pagamento de taxas para licenciamento ambiental."
+        ],
+        "resposta_correta": "C",
+        "comentário": "O Art. 58 da Instrução Normativa nº 001/2015 estabelece que é crime a apresentação de estudo ou relatório total ou parcialmente falso ou enganoso, inclusive por omissão, conforme o Art. 69-A da Lei nº 9.605/1998.",
+        "imagem": "null"
+    },
+    {
+        "numero": 49,
+        "enunciado": "Segundo a Instrução Normativa nº 001/2015, em quais casos o IPHAN não exigirá estudos sobre bens culturais acautelados?",
+        "alternativas": [
+            "A) Empreendimentos de qualquer natureza que não envolvam movimentação de terra.",
+            "B) Licenciamento de empreendimentos em áreas degradadas, contaminadas ou eletrificadas, desde que periciadas.",
+            "C) Apenas para empreendimentos de pequeno porte em áreas urbanas.",
+            "D) Quando o empreendedor apresentar declaração de ausência de bens culturais na área."
+        ],
+        "resposta_correta": "B",
+        "comentário": "O Art. 60 estabelece que não serão exigidos estudos sobre bens culturais acautelados para o licenciamento de empreendimentos em áreas degradadas, contaminadas, eletrificadas ou de alto risco, desde que devidamente periciadas.",
+        "imagem": "null"
+    },
+    {
+        "numero": 50,
+        "enunciado": "De acordo com a Instrução Normativa nº 001/2015, como deve ser feita a solicitação de manifestação do IPHAN nos processos de licenciamento ambiental?",
+        "alternativas": [
+            "A) De forma verbal pelo órgão ambiental responsável.",
+            "B) Através de um ofício eletrônico ou impresso encaminhado ao IPHAN.",
+            "C) Mediante solicitação formal do órgão ambiental licenciador com base na FCA.",
+            "D) Por meio da Secretaria do Ministério da Cultura, que intermedeia o contato."
+        ],
+        "resposta_correta": "C",
+        "comentário": "Conforme o Art. 3º da Instrução Normativa, o IPHAN se manifesta nos processos de licenciamento ambiental a partir de uma solicitação formal do órgão ambiental licenciador, com base na Ficha de Caracterização da Atividade (FCA).",
+        "imagem": "null"
+    },
+    {
+        "numero": 51,
+        "enunciado": "Quando um empreendimento impacta mais de um estado, qual procedimento deve ser seguido pelo IPHAN?",
+        "alternativas": [
+            "A) A análise será feita apenas pela Superintendência Estadual do IPHAN mais próxima.",
+            "B) O IPHAN deve centralizar o processo em sua Sede Nacional, distribuindo para as unidades administrativas competentes.",
+            "C) O empreendedor deve definir qual unidade estadual do IPHAN será responsável.",
+            "D) O IPHAN deve encaminhar a análise ao Ministério da Cultura para avaliação conjunta."
+        ],
+        "resposta_correta": "B",
+        "comentário": "O Art. 4º, §1º, estabelece que, em casos de empreendimentos envolvendo mais de um estado, a solicitação deve ser feita à Sede Nacional do IPHAN, que distribuirá os documentos entre suas unidades administrativas.",
         "imagem": "null"
     },
     {
         "numero": 52,
-        "enunciado": "Os sítios arqueológicos da Serra da Capivara, no Piauí, e de Santa Elina, no Mato Grosso, são comumente referenciados como os mais antigos assentamentos do território brasileiro, porém o caráter arqueológico das datações mais recuadas desses sítios permanece sob intenso debate, uma vez que não há contextos arqueológicos seguramente pleistocênicos nesses locais.",
+        "enunciado": "O que deve conter obrigatoriamente na Ficha de Caracterização da Atividade (FCA) para que o IPHAN possa avaliar o impacto cultural?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas a localização do empreendimento.",
+            "B) Coordenadas em formato shapefile e informações sobre bens culturais acautelados.",
+            "C) Um estudo de impacto ambiental detalhado e parecer do empreendedor.",
+            "D) Declaração de ausência de bens culturais assinada pelo responsável técnico."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "Os sítios da Serra da Capivara e de Santa Elina possuem evidências de ocupação humana muito antiga, mas há debate sobre se esses vestígios pertencem realmente a humanos do Pleistoceno ou se há fatores naturais envolvidos nas datações mais remotas.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 3º, §2º, estabelece que a FCA deve conter informações como área do empreendimento em formato shapefile, existência de bens culturais acautelados e estudos anteriores sobre esses bens.",
         "imagem": "null"
     },
     {
         "numero": 53,
-        "enunciado": "O termo paleoíndio é utilizado para denominar os primeiros habitantes do continente americano que, via de regra, dependiam da caça de animais de grande porte para o sustento de suas comunidades.",
+        "enunciado": "Nos casos de licenciamento ambiental federal, como o IPHAN recebe a solicitação de análise?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Diretamente pelas Superintendências Estaduais.",
+            "B) Exclusivamente via Ministério da Cultura.",
+            "C) Através da Sede Nacional do IPHAN.",
+            "D) Mediante solicitação do empreendedor, sem necessidade de intermediação."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "O termo paleoíndio refere-se aos primeiros grupos humanos das Américas, mas não apenas aos caçadores de grande porte. Há evidências de subsistência baseada em coleta, pesca e caça variada. Assim, o enunciado restringe a definição de forma incorreta.",
+        "resposta_correta": "C",
+        "comentário": "O Art. 4º da Instrução Normativa estabelece que, para o licenciamento ambiental federal, a solicitação deve ser recebida pela Sede Nacional do IPHAN.",
         "imagem": "null"
     },
     {
         "numero": 54,
-        "enunciado": "O gestor deve determinar a imediata remoção dos restos mortais, ainda que à revelia do direito das famílias afetadas sobre tais remanescentes, em prol do bem maior representado pela produção de energia elétrica para o país.",
+        "enunciado": "Quais são os principais critérios considerados pelo IPHAN ao emitir uma manifestação conclusiva em um processo de licenciamento ambiental?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas a presença de bens tombados.",
+            "B) A compatibilidade do empreendimento com a legislação ambiental.",
+            "C) A avaliação dos impactos sobre bens tombados, valorados, registrados e arqueológicos.",
+            "D) O interesse do empreendedor em prosseguir com o projeto."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "A remoção de restos mortais sem consentimento das famílias afetadas contraria princípios éticos e direitos fundamentais. Além disso, a legislação brasileira protege a memória e o patrimônio arqueológico, impedindo ações unilaterais sem estudos e consultas prévias.",
+        "resposta_correta": "C",
+        "comentário": "O Art. 6º determina que a manifestação conclusiva do IPHAN deve abordar todos os bens culturais tombados, valorados, registrados e arqueológicos para avaliação dos impactos.",
         "imagem": "null"
     },
     {
         "numero": 55,
-        "enunciado": "Se exauridas todas as possibilidades de negociação aventadas para um acordo amigável entre as partes, a gestão patrimonial deverá se posicionar a favor das famílias locais e, por consequência, pela proteção ao patrimônio arqueológico em risco.",
+        "enunciado": "O que deve ocorrer caso o IPHAN identifique um processo de licenciamento ambiental em andamento sem sua participação?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) A obra deve ser imediatamente embargada.",
+            "B) O IPHAN deve enviar um ofício ao órgão licenciador solicitando sua inclusão no processo.",
+            "C) O IPHAN pode apenas registrar a irregularidade, sem tomar medidas.",
+            "D) A Superintendência Estadual deve assumir a responsabilidade pelo caso automaticamente."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A gestão do patrimônio deve considerar tanto o direito das comunidades quanto a preservação do patrimônio arqueológico. Se não houver acordo, o posicionamento deve ser pela proteção dos direitos da comunidade e do patrimônio cultural, respeitando valores históricos e sociais.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 8º estabelece que, ao identificar um processo de licenciamento ambiental sem sua participação, o IPHAN deve encaminhar ofício ao órgão licenciador solicitando sua inclusão e a adoção de providências.",
         "imagem": "null"
     },
     {
         "numero": 56,
-        "enunciado": "Para uma tomada de decisão ética acerca da construção da usina, será necessário averiguar se haverá impactos positivos do empreendimento para a população a ser afetada pela inundação da área e se a ausência de alternativa viável torna imperativa a implantação da usina nesse local para a manutenção de níveis seguros de produção de energia elétrica para o país.",
+        "enunciado": "Nos casos de impacto sobre bens arqueológicos, como o IPHAN determina as ações a serem adotadas?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Com base no Termo de Compromisso do Empreendedor.",
+            "B) Por meio de um Relatório de Avaliação de Impacto ao Patrimônio Arqueológico.",
+            "C) Mediante consulta ao Ministério da Cultura.",
+            "D) Apenas após o empreendimento ser concluído."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A decisão deve considerar impactos sociais e ambientais antes de se determinar a construção da usina. O princípio da precaução exige a busca de alternativas para minimizar danos, e só se não houver outra opção viável, a obra pode ser justificada com base na necessidade de fornecimento energético.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 20 determina que a execução do Projeto de Avaliação de Impacto ao Patrimônio Arqueológico deve ser descrita em um relatório específico, que será analisado pelo IPHAN.",
         "imagem": "null"
     },
     {
         "numero": 57,
-        "enunciado": "Os territórios contidos nas unidades de conservação, sem a presença das comunidades que tradicionalmente os ocupavam, passam por um processo de desestruturação da malha de significados dos lugares, de maneira que ocorrem alterações em suas paisagens arqueológicas, que vinham sendo construídas, muitas vezes, há milênios.",
+        "enunciado": "Qual das opções a seguir corresponde a uma sanção aplicável ao Arqueólogo Coordenador em caso de descumprimento das normas?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas a advertência verbal.",
+            "B) Revogação da autorização concedida pelo IPHAN.",
+            "C) Multa aplicada ao IPHAN pelo descumprimento.",
+            "D) Afastamento temporário do empreendedor do projeto."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A remoção de comunidades tradicionais pode afetar não apenas a dinâmica ambiental, mas também a paisagem arqueológica, pois os habitantes locais mantêm práticas culturais e interações que contribuem para a conservação do espaço.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 48 da Instrução Normativa determina que a autorização concedida ao Arqueólogo Coordenador pode ser revogada caso sejam constatados descumprimentos das normas estabelecidas.",
         "imagem": "null"
     },
     {
         "numero": 58,
-        "enunciado": "Hoje, sabe-se que há situações em que, quando retiram-se as ocupações humanas tradicionais de uma determinada área, a biodiversidade cai devido à ausência de um elo fundamental na cadeia que promove a dinâmica de sua manutenção.",
+        "enunciado": "Como o IPHAN deve proceder quando há a necessidade de realizar Educação Patrimonial em um empreendimento?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas se for um empreendimento de grande porte.",
+            "B) Elaborando um Projeto Integrado de Educação Patrimonial contemplando bens arqueológicos e outros bens acautelados.",
+            "C) Substituindo essa obrigação pelo pagamento de uma taxa compensatória.",
+            "D) Deixando essa responsabilidade exclusivamente para o empreendedor."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A relação entre comunidades tradicionais e biodiversidade é bem documentada. Em diversas regiões, como a Amazônia, a presença humana ajuda a manter ecossistemas equilibrados. Remover populações pode causar impactos negativos inesperados na fauna e flora locais.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 43 estabelece que deve ser elaborado um Projeto Integrado de Educação Patrimonial, contemplando a concepção, metodologia e implementação das ações para a comunidade envolvida.",
         "imagem": "null"
     },
     {
         "numero": 59,
-        "enunciado": "Nas obras de um empreendimento de baixa interferência sobre as condições vigentes do solo, localizado em áreas alteradas e não coincidentes com sítios arqueológicos cadastrados, não há necessidade de qualquer avaliação arqueológica prévia, ficando os seus responsáveis obrigados a comunicar ao IPHAN, apenas caso encontrem — e sejam capazes de detectar — contextos culturais no local.",
+        "enunciado": "Nos casos de empreendimentos classificados como Nível IV, o que deve ser apresentado ao IPHAN?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas um Termo de Ajustamento de Conduta.",
+            "B) Um Projeto de Avaliação de Potencial de Impacto ao Patrimônio Arqueológico.",
+            "C) Apenas uma declaração de não interferência em bens culturais.",
+            "D) Nenhuma documentação adicional é necessária."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "Errado, pois todo empreendimento, independentemente do impacto previsto, deve passar por avaliação arqueológica, conforme exigências do IPHAN. Além disso, confiar apenas na identificação casual de vestígios culturais pelos responsáveis da obra não é um procedimento válido.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 21 estabelece que, para empreendimentos classificados como Nível IV, deve ser elaborado um Projeto de Avaliação de Potencial de Impacto ao Patrimônio Arqueológico, a ser autorizado pelo IPHAN.",
         "imagem": "null"
     },
     {
         "numero": 60,
-        "enunciado": "Sítios arqueológicos localizados em áreas diretamente afetadas por empreendimentos devem ser resgatados, mesmo que seja viável a sua preservação in situ, devido ao risco de perda de informações arqueológicas relevantes.",
+        "enunciado": "Qual é o prazo máximo para o IPHAN se manifestar após ser instado pelo órgão ambiental competente?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) 15 dias.",
+            "B) 30 dias.",
+            "C) 45 dias.",
+            "D) 60 dias."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "A preservação in situ (no local) deve ser sempre priorizada quando possível. O resgate de materiais arqueológicos só deve ser feito se não houver outra alternativa viável. A remoção pode comprometer o contexto arqueológico, o que prejudica a interpretação e a conservação dos achados.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 19 estabelece que o IPHAN tem o prazo máximo de 30 dias para se manifestar após ser instado pelo órgão ambiental competente.",
         "imagem": "null"
     },
     {
         "numero": 61,
-        "enunciado": "Somente será aceito como arqueólogo coordenador ou como arqueólogo coordenador de campo o profissional que não possuir em seu nome pendências injustificadas em relação à apresentação de relatórios de outros projetos ou programas anteriores.",
+        "enunciado": "O que ocorre caso um empreendedor não apresente a resposta ao pedido de esclarecimentos feito pelo IPHAN dentro do prazo estipulado?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) O IPHAN arquivará automaticamente o processo.",
+            "B) O processo será encaminhado ao Ministério Público para sanções.",
+            "C) O órgão ambiental licenciador poderá dar prosseguimento ao processo sem a manifestação do IPHAN.",
+            "D) A responsabilidade do empreendimento é transferida para o IPHAN."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "O IPHAN exige que arqueólogos responsáveis por projetos não tenham pendências injustificadas quanto à entrega de relatórios anteriores. Essa norma visa garantir a continuidade dos estudos e a preservação adequada do patrimônio arqueológico.",
+        "resposta_correta": "A",
+        "comentário": "Conforme o Art. 25, se o empreendedor não responder ao pedido de esclarecimentos dentro do prazo estipulado, o IPHAN poderá arquivar o processo.",
         "imagem": "null"
     },
     {
         "numero": 62,
-        "enunciado": "Sambaquis, sítios monumentais que se destacam nos ambientes litorâneos em que estão implantados, representam não apenas espaços habitacionais, mas também lugares onde eram desenvolvidas atividades específicas, inseridos em sistemas de assentamento regionais pouco conhecidos, com raros outros tipos de sítios identificados.",
+        "enunciado": "Quais são os tipos de bens culturais considerados pelo IPHAN para manifestação em processos de licenciamento ambiental?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas bens tombados e arqueológicos.",
+            "B) Somente bens tombados e registrados.",
+            "C) Bens tombados, arqueológicos, registrados e valorados.",
+            "D) Apenas bens arqueológicos e valorados."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "Os sambaquis não eram apenas locais de moradia, mas também centros cerimoniais e de descarte de materiais biológicos e culturais. Eles estão inseridos em sistemas de assentamento regionais, mas a relação com outros tipos de sítios ainda é pouco compreendida.",
+        "resposta_correta": "C",
+        "comentário": "O Art. 2º define que os bens culturais acautelados pelo IPHAN incluem bens tombados, arqueológicos, registrados e valorados.",
         "imagem": "null"
     },
     {
         "numero": 63,
-        "enunciado": "Na região Sudeste, os sambaquis registrados com datação mais antiga estão nos sítios do Vale do Rio Ribeira do Iguape (cerca de 9.000 AP), onde os sambaquis predominantemente formados pela acumulação de restos de gastrópodes têm sequências estratigráficas assemelhadas a sítios costeiros que, normalmente, são muito mais recentes, com datações entre 6.000 AP e 3.000 AP.",
+        "enunciado": "Segundo a Instrução Normativa nº 001/2015, qual deve ser o conteúdo mínimo do Relatório de Avaliação de Impacto ao Patrimônio Arqueológico?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Apenas a identificação do empreendedor e a localização do empreendimento.",
+            "B) Uma descrição do empreendimento e um inventário de bens culturais da área.",
+            "C) Relatos de escavações arqueológicas realizadas no local, independentemente de impacto.",
+            "D) Apenas um estudo comparativo com outros empreendimentos similares."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "O Vale do Ribeira abriga alguns dos sambaquis mais antigos do Brasil, datados de cerca de 9.000 AP. Esses sítios apresentam características semelhantes a sambaquis costeiros mais recentes, mas possuem uma cronologia distinta, indicando processos de ocupação contínuos ao longo do tempo.",
+        "resposta_correta": "B",
+        "comentário": "O Art. 23 estabelece que o Relatório de Avaliação de Impacto ao Patrimônio Arqueológico deve conter a descrição do empreendimento e um inventário dos bens culturais presentes na área.",
         "imagem": "null"
     },
     {
         "numero": 64,
-        "enunciado": "Em geral, os sambaquis são capeados por depósitos cerâmicos compostos predominantemente por terras pretas e estruturalmente semelhantes aos depósitos em que predomina o material malacológico.",
+        "enunciado": "Qual a consequência prevista na Instrução Normativa nº 001/2015 para o não cumprimento das medidas de mitigação ou compensação estabelecidas pelo IPHAN?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) O empreendimento pode ser embargado.",
+            "B) O IPHAN perde sua competência para atuar no caso.",
+            "C) Apenas um parecer consultivo será emitido, sem penalidades.",
+            "D) O Ministério da Cultura assume a responsabilidade pelo empreendimento."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "Embora alguns sambaquis possuam camadas de depósitos cerâmicos em seu topo, não é uma regra geral. Além disso, as terras pretas arqueológicas têm composições distintas dos depósitos malacológicos típicos dos sambaquis.",
+        "resposta_correta": "A",
+        "comentário": "O Art. 39 estabelece que o IPHAN pode recomendar a paralisação do empreendimento caso as medidas de mitigação ou compensação não sejam cumpridas.",
         "imagem": "null"
     },
     {
         "numero": 65,
-        "enunciado": "A alta densidade de material faunístico nos sambaquis tem levado à interpretação de que eles constituíram acampamentos temporários para sociedades de caçadores/coletores cuja dieta era altamente dependente da coleta de moluscos, não havendo sinais da prática da agricultura.",
+        "enunciado": "Qual é o objetivo do Programa de Gestão do Patrimônio Arqueológico nos empreendimentos sujeitos a licenciamento ambiental?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Garantir a exploração comercial dos achados arqueológicos.",
+            "B) Permitir a substituição de bens arqueológicos por compensações financeiras.",
+            "C) Promover a proteção, o manejo e a valorização dos bens arqueológicos afetados.",
+            "D) Criar inventários para fins exclusivamente acadêmicos, sem impacto no empreendimento."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "Embora a dieta dos ocupantes dos sambaquis fosse fortemente baseada na coleta de moluscos e pesca, há indícios de práticas agrícolas em alguns grupos sambaquieiros. Além disso, muitos sambaquis não eram apenas acampamentos temporários, mas assentamentos permanentes.",
+        "resposta_correta": "C",
+        "comentário": "O Art. 35 determina que o Programa de Gestão do Patrimônio Arqueológico visa garantir a proteção, o manejo e a valorização dos bens arqueológicos afetados por empreendimentos sujeitos a licenciamento ambiental.",
         "imagem": "null"
     },
     {
         "numero": 66,
-        "enunciado": "As escavações sistemáticas em sambaquis começaram somente na década de 60 do século passado, quando programas de pesquisa franceses e norte-americanos iniciaram, isoladamente, investigações pioneiras nesses lugares.",
+        "enunciado": "A revogação da autorização concedida pelo IPHAN pode ocorrer em quais circunstâncias?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Quando for constatado descumprimento do Termo de Compromisso Arqueológico.",
+            "B) Apenas se houver denúncia formal por parte do empreendedor.",
+            "C) Se o empreendimento for concluído antes da análise final do IPHAN.",
+            "D) Exclusivamente mediante decisão judicial."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "As pesquisas sobre sambaquis no Brasil começaram antes da década de 1960. Desde o início do século XX, pesquisadores brasileiros, como Roquette-Pinto e outros, já realizavam estudos sobre esses sítios arqueológicos. A década de 1960 trouxe avanços metodológicos, mas as investigações não começaram apenas nesse período.",
+        "resposta_correta": "A",
+        "comentário": "O Art. 48 estabelece que a revogação da autorização concedida pelo IPHAN ocorre quando há descumprimento do Termo de Compromisso Arqueológico.",
         "imagem": "null"
     },
     {
         "numero": 67,
-        "enunciado": "Em contraposição a interpretações anteriores, dados zooarqueológicos obtidos a partir de 1990 mostram que a dieta das comunidades sambaquieiras era baseada na pesca intensiva com redes em baías e lagoas e complementada pela coleta de alimentos nos manguezais.",
+        "enunciado": "A Instrução Normativa nº 001/2015 estabelece diretrizes para a participação do IPHAN no licenciamento ambiental. Considerando o princípio da precaução, como essa normativa contribui para a proteção do patrimônio cultural?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Exigindo que todo empreendimento realize escavações arqueológicas preventivas, independentemente do potencial impacto.",
+            "B) Definindo critérios para avaliar riscos e impactos antes da concessão de licenças ambientais, garantindo que medidas sejam adotadas para evitar danos irreversíveis.",
+            "C) Autorizando automaticamente empreendimentos em áreas com bens culturais acautelados, desde que haja um plano de compensação financeira.",
+            "D) Permite que o empreendedor escolha livremente quais bens culturais devem ser preservados e quais podem ser descartados."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "Estudos mais recentes indicam que a pesca com redes era uma prática essencial para os povos sambaquieiros, contrariando hipóteses anteriores que enfatizavam exclusivamente a coleta de moluscos. Além disso, alimentos provenientes dos manguezais faziam parte da dieta, demonstrando uma adaptação complexa ao ambiente costeiro.",
+        "resposta_correta": "B",
+        "comentário": "A normativa adota o princípio da precaução ao exigir que riscos e impactos sejam analisados antes da concessão de licenças ambientais (Art. 6º e Art. 23). Dessa forma, assegura que medidas de mitigação e compensação sejam aplicadas para evitar danos ao patrimônio cultural.",
         "imagem": "null"
     },
     {
         "numero": 68,
-        "enunciado": "Os projetos, necessariamente, devem ser executados sob as diretrizes de uma arqueologia colaborativa.",
+        "enunciado": "A Instrução Normativa prevê que empreendimentos classificados como Nível IV devem apresentar um Projeto de Avaliação de Potencial de Impacto ao Patrimônio Arqueológico. Qual é o objetivo dessa exigência?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Garantir que apenas bens tombados sejam protegidos.",
+            "B) Permitir que os empreendedores decidam quais medidas de proteção desejam adotar.",
+            "C) Avaliar previamente os impactos e determinar medidas de mitigação antes da execução do empreendimento.",
+            "D) Criar um inventário de bens arqueológicos apenas para fins acadêmicos."
         ],
-        "resposta_correta": "Certo",
-        "comentário": "A arqueologia em terras indígenas segue o princípio da arqueologia colaborativa, que envolve a participação ativa das comunidades indígenas na definição dos objetivos e métodos de pesquisa. Isso está alinhado com diretrizes internacionais e normativas do IPHAN, garantindo o respeito aos direitos dessas populações.",
+        "resposta_correta": "C",
+        "comentário": "O Art. 21 da normativa estabelece que o Projeto de Avaliação de Potencial de Impacto ao Patrimônio Arqueológico tem o objetivo de avaliar previamente os impactos ao patrimônio arqueológico e definir medidas de mitigação antes do início do empreendimento.",
         "imagem": "null"
     },
     {
         "numero": 69,
-        "enunciado": "As comunidades indígenas devem ser as principais beneficiadas pelas pesquisas: povos e comunidades tradicionais devem ter primazia na definição dos métodos e na apropriação dos resultados obtidos por pesquisas arqueológicas em suas terras, cabendo ao Estado somente garantir que os materiais coletados fiquem à disposição para acesso pelos interessados, o mais próximo possível de seus locais de origem.",
+        "enunciado": "A Instrução Normativa nº 001/2015 menciona a revogação de autorizações concedidas a arqueólogos coordenadores e empreendedores. Com base nisso, qual cenário justificaria essa revogação?",
         "alternativas": [
-            "Certo",
-            "Errado"
+            "A) Quando o arqueólogo coordenador ou o empreendedor descumprirem as obrigações estabelecidas no Termo de Compromisso Arqueológico.",
+            "B) Se o empreendedor decidir não mais seguir as recomendações do IPHAN, mesmo sem evidências de descumprimento.",
+            "C) Sempre que o IPHAN for notificado sobre qualquer empreendimento em andamento, independentemente da conformidade com a legislação.",
+            "D) Apenas quando houver impacto em bens tombados, não se aplicando a bens arqueológicos registrados."
         ],
-        "resposta_correta": "Errado",
-        "comentário": "Embora as comunidades indígenas tenham um papel fundamental na gestão do patrimônio arqueológico, o Estado tem a responsabilidade legal de regular, proteger e gerir esses bens culturais. O IPHAN tem atribuições de fiscalização e salvaguarda, e não pode apenas atuar como facilitador do acesso aos materiais.",
-        "imagem": "null"
-    },
-    {
-        "numero": 70,
-        "enunciado": "Em relação ao licenciamento ambiental de empreendimentos em terras indígenas, as consultas devem preceder quaisquer atividades ligadas ao desenvolvimento dos projetos e devem garantir aos indígenas a possibilidade de decidirem pela inviabilidade das obras.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O princípio do consentimento livre, prévio e informado (CLPI), estabelecido pela Convenção 169 da OIT (Organização Internacional do Trabalho), garante que povos indígenas devem ser consultados antes de qualquer empreendimento que afete seus territórios. Se a comunidade indígena considerar que a obra é inviável, essa decisão deve ser respeitada.",
-        "imagem": "null"
-    },
-    {
-        "numero": 71,
-        "enunciado": "Análises específicas da presença, na área de impacto dos empreendimentos, de locais ou paisagens de significado simbólico/sagrado para sociedades indígenas devem estar exclusivamente a cargo dos projetos sob gestão da FUNAI.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A identificação e análise de locais de significado simbólico para povos indígenas não são exclusividade da FUNAI. O IPHAN e outros órgãos ambientais e culturais também têm competência para avaliar o impacto dos empreendimentos sobre áreas sagradas, especialmente no contexto do licenciamento ambiental.",
-        "imagem": "null"
-    },
-    {
-        "numero": 72,
-        "enunciado": "Projetos voltados especificamente ao patrimônio arqueológico devem limitar-se aos vestígios materiais de ocupação humana pretérita encontrados nos sítios arqueológicos, de maneira que a gestão seja voltada para as características de redundância versus de relevância dos achados, para se garantir que os contextos sejam amostrados adequadamente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A arqueologia não se limita apenas aos vestígios materiais. Atualmente, a gestão do patrimônio arqueológico considera também aspectos simbólicos, imateriais e a relação das comunidades contemporâneas com esses bens. Assim, a abordagem não pode ser restrita apenas a um critério técnico de relevância versus redundância dos achados.",
-        "imagem": "null"
-    },
-    {
-        "numero": 73,
-        "enunciado": "Comprovar a continuidade histórica entre o registro etnográfico e o arqueológico pode ser irrelevante para as pessoas que usufruem do patrimônio arqueológico, uma vez que o conteúdo simbólico que os vestígios do passado possuem no presente é o que normalmente define as relações entre os sítios arqueológicos e as ocupações tradicionais de um determinado território.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A relação entre comunidades contemporâneas e o patrimônio arqueológico não depende exclusivamente de comprovações científicas de continuidade histórica. Muitas comunidades atribuem significados aos vestígios arqueológicos com base em narrativas culturais e simbólicas, independentemente de evidências formais.",
-        "imagem": "null"
-    },
-    {
-        "numero": 74,
-        "enunciado": "As coisas e os bens de interesse arqueológico resgatados de afundamentos em águas sob jurisdição nacional deverão permanecer no domínio da União.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Os bens arqueológicos submersos, como naufrágios históricos e outros vestígios, são considerados patrimônio da União, conforme a legislação brasileira. Isso impede que particulares reivindiquem propriedade sobre esses bens e protege seu valor histórico e cultural.",
-        "imagem": "null"
-    },
-    {
-        "numero": 75,
-        "enunciado": "A Resolução CONAMA n.º 1/1986 estabelece que o estudo de impacto ambiental de um empreendimento deve conter o diagnóstico ambiental da área de influência desse empreendimento, considerando-se, entre os aspectos socioeconômicos, os sítios e monumentos arqueológicos.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A Resolução CONAMA nº 1/1986 determina que os estudos de impacto ambiental devem incluir a análise de impactos sobre o patrimônio arqueológico, além dos aspectos ecológicos e sociais. Isso garante que o patrimônio cultural seja protegido dentro do processo de licenciamento ambiental.",
-        "imagem": "null"
-    },
-    {
-        "numero": 76,
-        "enunciado": "Um arqueólogo deve acompanhar pessoalmente a execução de um empreendimento classificado como de baixa ou média interferência sobre as condições vigentes do solo que permitam medidas preventivas em campo.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A legislação brasileira não exige a presença constante de um arqueólogo em empreendimentos de baixa ou média interferência. O acompanhamento contínuo é necessário apenas para projetos de grande impacto arqueológico. Para os de menor interferência, a exigência é a realização de estudos prévios e monitoramento adequado.",
-        "imagem": "null"
-    },
-    {
-        "numero": 77,
-        "enunciado": "Na hipótese de um empreendimento provocar danos a bens culturais acautelados, cabe ao IPHAN, no âmbito do licenciamento ambiental, determinar as medidas de controle e de mitigação dos danos a serem adotadas pelo proprietário do empreendimento.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O IPHAN tem a competência legal para definir medidas de controle e mitigação de impactos causados a bens culturais. No âmbito do licenciamento ambiental, o órgão pode exigir compensações, monitoramento arqueológico e adoção de estratégias de preservação, garantindo a proteção do patrimônio.",
-        "imagem": "null"
-    },
-    {
-        "numero": 78,
-        "enunciado": "Os estudos necessários à elaboração de processo de licenciamento ambiental, no que se refere às pesquisas arqueológicas, são de responsabilidade exclusiva dos funcionários do IPHAN devidamente habilitados, conforme dispõe a Resolução CONAMA n.º 237/1997.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Os estudos arqueológicos em processos de licenciamento ambiental não são de responsabilidade exclusiva do IPHAN. Eles são realizados por arqueólogos privados contratados pelos empreendedores, seguindo diretrizes estabelecidas pelo órgão. O IPHAN atua na análise e aprovação desses estudos, mas não executa diretamente os levantamentos.",
-        "imagem": "null"
-    },
-    {
-        "numero": 79,
-        "enunciado": "As instituições de guarda e pesquisa devidamente cadastradas como tal têm competência para autorizar e fiscalizar os trabalhos dos arqueólogos em campo.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A fiscalização e autorização de trabalhos arqueológicos são atribuições exclusivas do IPHAN. As instituições de guarda e pesquisa têm a função de armazenar, conservar e estudar os bens arqueológicos, mas não possuem poder legal para autorizar escavações ou fiscalizar pesquisas em campo.",
-        "imagem": "null"
-    },
-    {
-        "numero": 80,
-        "enunciado": "O pedido de permissão para pesquisa e escavação arqueológica é privativo de pessoa jurídica.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "O pedido de permissão para escavações arqueológicas não é restrito a pessoas jurídicas. Profissionais arqueólogos individuais podem solicitar autorizações de pesquisa junto ao IPHAN, desde que estejam devidamente credenciados e atendam às exigências do órgão.",
-        "imagem": "null"
-    },
-    {
-        "numero": 81,
-        "enunciado": "O pesquisador, ao preencher a ficha de registro de sítio arqueológico por ele descoberto, pode atribuir ao sítio um nome de sua escolha.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O pesquisador responsável pelo registro de um sítio arqueológico pode nomeá-lo, geralmente levando em consideração referências geográficas, culturais ou aspectos locais que facilitem a sua identificação no Cadastro Nacional de Sítios Arqueológicos (CNSA).",
-        "imagem": "null"
-    },
-    {
-        "numero": 82,
-        "enunciado": "A movimentação de bens arqueológicos dentro do território nacional é normatizada por portaria do IPHAN.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O IPHAN regula a movimentação de bens arqueológicos no Brasil por meio de portarias específicas. Essas normas garantem que os artefatos sejam transportados de forma segura e legal, prevenindo a dispersão ou perda de patrimônio cultural.",
-        "imagem": "null"
-    },
-    {
-        "numero": 83,
-        "enunciado": "Os sítios arqueológicos com vestígios de atividades puramente econômicas e de sobrevivência são denominados de sítios cerimoniais.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Sítios cerimoniais são aqueles associados a práticas rituais e eventos simbólicos. Já os sítios voltados para atividades econômicas e de sobrevivência são categorizados de outra forma, como sítios de habitação, oficinas líticas ou sítios de caça e pesca.",
-        "imagem": "null"
-    },
-    {
-        "numero": 84,
-        "enunciado": "Recomenda-se que os materiais arqueológicos sejam reunidos em museus e coleções centrais ou regionais, a fim de se facilitarem pesquisas comparativas.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A centralização dos materiais arqueológicos em instituições de guarda e pesquisa facilita o acesso dos pesquisadores e a realização de estudos comparativos, garantindo melhores condições de preservação e catalogação.",
-        "imagem": "null"
-    },
-    {
-        "numero": 85,
-        "enunciado": "A metodologia do Programa Nacional de Pesquisas Arqueológicas (PRONAPA) consistia em coletas superficiais para identificação de sítios arqueológicos.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O PRONAPA (Programa Nacional de Pesquisas Arqueológicas) foi um projeto desenvolvido na década de 1960, que utilizava coletas superficiais e levantamentos sistemáticos para identificar e mapear sítios arqueológicos no Brasil.",
-        "imagem": "null"
-    },
-    {
-        "numero": 86,
-        "enunciado": "As datações relativas, assim denominadas por apresentarem margem de erro, são as obtidas por processos físico-químicos disponíveis aos arqueólogos desde a década de 1950.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Datações relativas não são baseadas em processos físico-químicos, mas sim na relação estratigráfica dos achados (exemplo: o princípio da superposição). Já as datações absolutas, como a datação por radiocarbono (C-14), surgiram na década de 1950 e utilizam métodos físico-químicos.",
-        "imagem": "null"
-    },
-    {
-        "numero": 87,
-        "enunciado": "De acordo com as recomendações do IPHAN para conservação de bens arqueológicos móveis, o acervo deve receber números de inventários que não identifiquem o sítio arqueológico de onde foram resgatados.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A catalogação de bens arqueológicos deve sempre manter a identificação do sítio de origem, pois essa informação é essencial para pesquisas e contextualização dos achados.",
-        "imagem": "null"
-    },
-    {
-        "numero": 88,
-        "enunciado": "Artefatos líticos que apresentam resíduos que caracterizem seu uso não devem ser higienizados por lavagem.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Artefatos líticos (ferramentas de pedra) podem conter resíduos orgânicos microscópicos que fornecem informações sobre seu uso. A lavagem pode remover essas evidências, comprometendo análises posteriores.",
-        "imagem": "null"
-    },
-    {
-        "numero": 89,
-        "enunciado": "Bens arqueológicos provenientes de meios úmidos devem ser expostos ao sol para secagem antes de serem transportados para laboratório.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Bens arqueológicos encontrados em ambientes úmidos exigem processos cuidadosos de secagem controlada, pois a exposição direta ao sol pode causar rachaduras, desintegração e perda de material orgânico.",
-        "imagem": "null"
-    },
-    {
-        "numero": 90,
-        "enunciado": "Bens arqueológicos fragmentados poderão ser colados, desde que se utilizem materiais e técnicas reversíveis que não comprometam a análise e a conservação desses bens.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A conservação de bens arqueológicos fragmentados deve utilizar adesivos reversíveis, permitindo que futuras intervenções possam ser feitas sem prejudicar os artefatos.",
-        "imagem": "null"
-    },
-    {
-        "numero": 91,
-        "enunciado": "O Cadastro de Bem Arqueológico Móvel constitui um inventário dos bens arqueológicos móveis existentes em diversas instituições do país.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Esse cadastro é um inventário nacional que registra bens arqueológicos móveis, ajudando na fiscalização, preservação e pesquisas científicas.",
-        "imagem": "null"
-    },
-    {
-        "numero": 92,
-        "enunciado": "O acesso ao Cadastro Nacional de Sítios Arqueológicos, que reúne informações sobre os sítios arqueológicos brasileiros, é restrito a arqueólogos e funcionários do IPHAN.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Embora algumas informações do Cadastro Nacional de Sítios Arqueológicos (CNSA) sejam de acesso restrito, ele pode ser consultado por pesquisadores e profissionais da área mediante solicitação.",
-        "imagem": "null"
-    },
-    {
-        "numero": 93,
-        "enunciado": "O principal objetivo das audiências públicas arqueológicas é informar a população sobre as decisões previamente tomadas por empresas no âmbito do licenciamento ambiental.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "O objetivo das audiências públicas não é apenas informar, mas também garantir a participação da sociedade na tomada de decisões sobre impactos ambientais e arqueológicos.",
-        "imagem": "null"
-    },
-    {
-        "numero": 94,
-        "enunciado": "A arqueologia preventiva é conceituada como um conjunto de técnicas e padrões éticos de conservação e restauração de bens arqueológicos adotado em ambiente de laboratório.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A arqueologia preventiva envolve ações em campo para evitar a destruição de sítios arqueológicos, principalmente em projetos de impacto ambiental. Não se limita ao ambiente de laboratório.",
-        "imagem": "null"
-    },
-    {
-        "numero": 95,
-        "enunciado": "O termo arqueologia pública surgiu nos Estados Unidos da América na década de 70 do século passado com a obra de Charles McGimsey, que demonstrou a importância social da atuação do arqueólogo.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A arqueologia pública surgiu nos EUA nos anos 1970 com a obra Public Archaeology, de Charles McGimsey, destacando o papel social e a necessidade de envolvimento da comunidade na preservação do patrimônio arqueológico.",
-        "imagem": "null"
-    },
-    {
-        "numero": 96,
-        "enunciado": "Objeto de interesse arqueológico encontrado em território brasileiro poderá ser vendido para o exterior desde que haja autorização expressa da Casa Civil e da Presidência da República.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Bens arqueológicos são propriedade da União e sua venda é proibida. Nenhuma autorização governamental pode permitir a exportação comercial de bens arqueológicos encontrados no Brasil.",
-        "imagem": "null"
-    },
-    {
-        "numero": 97,
-        "enunciado": "Em âmbito internacional, um bem cultural obtido mediante escavações ilícitas só será considerado furtado se assim prever o ordenamento jurídico do Estado onde as referidas escavações tenham ocorrido.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A Convenção da UNESCO de 1970 e outros tratados internacionais consideram ilícita a extração e venda de bens culturais obtidos ilegalmente, independentemente das leis específicas do país de origem.",
-        "imagem": "null"
-    },
-    {
-        "numero": 98,
-        "enunciado": "A obrigação de o predador indenizar os danos causados por ele ao meio ambiente está amparada no princípio do poluidor pagador.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O princípio do poluidor-pagador determina que quem causa dano ambiental deve arcar com os custos da reparação.",
-        "imagem": "null"
-    },
-    {
-        "numero": 99,
-        "enunciado": "O princípio do usuário pagador estabelece que quem utiliza o recurso ambiental deve suportar os custos advindos dessa prática.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O princípio do usuário-pagador complementa o poluidor-pagador, determinando que quem se beneficia do meio ambiente deve pagar pelo seu uso (ex.: exploração de recursos naturais).",
-        "imagem": "null"
-    },
-    {
-        "numero": 100,
-        "enunciado": "Na linha da harmonização entre a preservação do meio ambiente e o desenvolvimento econômico, a Constituição Federal de 1988 estabelece a defesa do meio ambiente e permite tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A Constituição de 1988 garante a proteção ambiental, mas permite tratamento diferenciado conforme o impacto ambiental, incentivando práticas sustentáveis.",
-        "imagem": "null"
-    },
-    {
-        "numero": 101,
-        "enunciado": "De acordo com a Constituição Federal de 1988, o meio ambiente ecologicamente equilibrado é essencial à sadia qualidade de vida, por isso consiste em bem de uso especial do povo.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "O meio ambiente é considerado bem de uso comum do povo, não bem de uso especial. Isso significa que todos têm direito à sua preservação e utilização sustentável.",
-        "imagem": "null"
-    },
-    {
-        "numero": 102,
-        "enunciado": "A realização de obras de engenharia destinadas ao uso comercial deverá ser precedida de estudo prévio de impacto ambiental, em razão do princípio da precaução.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Nem todas as obras comerciais exigem Estudo de Impacto Ambiental (EIA). O critério para essa exigência depende do potencial de impacto ao meio ambiente, conforme definido pela legislação ambiental.",
-        "imagem": "null"
-    },
-    {
-        "numero": 103,
-        "enunciado": "Para emissão do licenciamento ambiental, o órgão ambiental competente poderá avaliar a localização do empreendimento potencialmente poluidor, mas não poderá adentrar nas suas instalações, porque tal conduta extrapola o poder de polícia cabível a essa autoridade.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Os órgãos ambientais têm poder de polícia para fiscalizar e acessar instalações sempre que necessário para verificar o cumprimento das normas ambientais.",
-        "imagem": "null"
-    },
-    {
-        "numero": 104,
-        "enunciado": "A fabricação e a montagem de veículos rodoviários serão sujeitas ao licenciamento ambiental caso haja laudo técnico oficial que ateste risco de degradação ambiental.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Se houver um laudo que indique impacto ambiental relevante, o licenciamento ambiental poderá ser exigido.",
-        "imagem": "null"
-    },
-    {
-        "numero": 105,
-        "enunciado": "Para a definição da sanção decorrente de conduta infracional contra o meio ambiente, deverão ser considerados a gravidade dos fatos e os antecedentes do infrator, sendo vedada como critério a situação econômica deste.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A legislação ambiental prevê critérios objetivos, como gravidade da infração e antecedentes do infrator, mas não permite tratamento desigual baseado na situação econômica.",
-        "imagem": "null"
-    },
-    {
-        "numero": 106,
-        "enunciado": "O poder de polícia ambiental é efetivado por meio do auto de infração, que conterá a imposição das medidas elencadas na legislação.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O poder de polícia ambiental é exercido por meio de autos de infração, embargos e multas.",
-        "imagem": "null"
-    },
-    {
-        "numero": 107,
-        "enunciado": "É lícita a cumulação de advertência com aplicação de multa para uma mesma conduta infracional contra o meio ambiente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A legislação permite cumulação de penalidades ambientais, combinando multa, advertência e outras medidas.",
-        "imagem": "null"
-    },
-    {
-        "numero": 108,
-        "enunciado": "Por entender que o dano ambiental afeta uma pluralidade difusa de vítimas, a legislação brasileira o considera a partir de dois prismas: o da vítima imediata e o da vítima mediata.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O dano ambiental pode ter efeitos imediatos (locais) e mediatos (afetando gerações futuras e ecossistemas maiores).",
-        "imagem": "null"
-    },
-    {
-        "numero": 109,
-        "enunciado": "Em relação à lesividade ou à extensão, o dano ambiental pode ser patrimonial ou extrapatrimonial.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O dano ambiental pode causar prejuízos patrimoniais (danos físicos) e extrapatrimoniais (impactos sociais e culturais, como a perda de biodiversidade).",
-        "imagem": "null"
-    },
-    {
-        "numero": 110,
-        "enunciado": "Para a responsabilização por dano ambiental, é necessária a existência da ação lesiva, do dano, do nexo com a fonte poluidora ou degradadora e da prova de culpa do agente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A responsabilidade ambiental no Brasil é objetiva, ou seja, não exige a comprovação de culpa, bastando a relação entre o dano e a ação do agente.",
-        "imagem": "null"
-    },
-    {
-        "numero": 111,
-        "enunciado": "A legislação brasileira conceitua como dano ambiental qualquer alteração adversa das características do meio ambiente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A legislação ambiental define dano ambiental como qualquer alteração negativa ao meio ambiente, independentemente de sua magnitude, conforme o artigo 3º da Lei nº 6.938/1981 (Política Nacional do Meio Ambiente).",
-        "imagem": "null"
-    },
-    {
-        "numero": 112,
-        "enunciado": "O EIA tem como objetivo analisar a viabilidade de determinada atividade e apresentar alternativas para minimizar impactos negativos ao meio ambiente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O Estudo de Impacto Ambiental (EIA) é um instrumento da política ambiental que analisa impactos e propõe alternativas para reduzir danos ao meio ambiente antes da aprovação de um empreendimento.",
-        "imagem": "null"
-    },
-    {
-        "numero": 113,
-        "enunciado": "A alteração das propriedades físicas, químicas e biológicas do meio ambiente é considerada impacto ambiental somente se tiver afetado a biota.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Um impacto ambiental não precisa necessariamente afetar a biota (fauna e flora) para ser caracterizado. Qualquer alteração significativa no solo, água ou ar pode ser considerada um impacto ambiental.",
-        "imagem": "null"
-    },
-    {
-        "numero": 114,
-        "enunciado": "O licenciamento de aterros sanitários estaduais depende de elaboração de estudo de impacto ambiental, que deve ser submetido ao IBAMA e, supletivamente, aos estados.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "O licenciamento de aterros sanitários é de competência estadual e municipal, e o IBAMA só atua caso o impacto ultrapasse os limites de um estado.",
-        "imagem": "null"
-    },
-    {
-        "numero": 115,
-        "enunciado": "O EIA constitui um instrumento da Política Nacional do Meio Ambiente e possui natureza jurídica de instituto constitucional.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "O Estudo de Impacto Ambiental (EIA) é um instrumento da Política Nacional do Meio Ambiente e tem amparo constitucional, sendo exigido para empreendimentos potencialmente poluidores (artigo 225 da Constituição Federal de 1988).",
-        "imagem": "null"
-    },
-    {
-        "numero": 116,
-        "enunciado": "Assegurar o bem-estar da população humana é uma das funções das áreas de preservação permanente.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Áreas de Preservação Permanente (APPs) são criadas para proteger recursos naturais, mas também beneficiam a população ao garantir qualidade ambiental e estabilidade ecológica.",
-        "imagem": "null"
-    },
-    {
-        "numero": 117,
-        "enunciado": "É vedada a supressão de vegetação nativa em área de preservação permanente, ainda que se trate de hipótese de utilidade pública.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "A legislação permite a supressão de vegetação em APPs em casos de utilidade pública, como construção de rodovias e obras de infraestrutura, desde que haja compensação ambiental.",
-        "imagem": "null"
-    },
-    {
-        "numero": 118,
-        "enunciado": "As unidades de conservação, consistentes no espaço territorial e seus recursos ambientais, são legalmente instituídas pelo poder público, sob regime especial de administração.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "Unidades de Conservação (UCs) são áreas protegidas instituídas pelo poder público e possuem regras específicas de uso e proteção, conforme a Lei do SNUC (Sistema Nacional de Unidades de Conservação - Lei nº 9.985/2000).",
-        "imagem": "null"
-    },
-    {
-        "numero": 119,
-        "enunciado": "Caso seja constatada a supressão de vegetação de área de preservação permanente situada em imóvel rural alienado, a obrigação de promover a recomposição da vegetação será transmitida ao comprador do imóvel.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Certo",
-        "comentário": "A responsabilidade ambiental acompanha o imóvel, ou seja, mesmo que haja mudança de proprietário, a obrigação de recomposição da vegetação permanece com o novo dono.",
-        "imagem": "null"
-    },
-    {
-        "numero": 120,
-        "enunciado": "A criação de uma unidade de conservação será precedida de estudos técnicos, exigindo-se a realização de consulta pública apenas se a área estiver ocupada por população indígena.",
-        "alternativas": [
-            "Certo",
-            "Errado"
-        ],
-        "resposta_correta": "Errado",
-        "comentário": "Toda criação de unidade de conservação deve ser precedida de consulta pública, independentemente de haver ou não populações indígenas na área.",
+        "resposta_correta": "A",
+        "comentário": "O Art. 48 prevê a revogação de autorizações quando houver descumprimento do Termo de Compromisso Arqueológico, assegurando que as medidas de proteção ao patrimônio sejam efetivamente cumpridas.",
         "imagem": "null"
     }
-]
+
+  ]
+  
